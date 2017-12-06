@@ -1,4 +1,4 @@
-# My Starred Repositories
+# My Starred Repositories [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 This repository contains my starred repositories grouped into different categories.
 
 **Date:** Dec. 5th, 2017
