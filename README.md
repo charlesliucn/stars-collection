@@ -29,6 +29,9 @@ This repository contains my starred repositories grouped into different categori
 
 ### [6. Job and Career](#job)
 
+* * *
+* * *
+
 ## <a name="programming"></a> 1. Programming
 ### <a name="tutorialscheatsheets"></a> 1.1 Tutorials & Cheatsheets
 + [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
@@ -40,7 +43,7 @@ This repository contains my starred repositories grouped into different categori
 + [Python Programming](https://github.com/xxg1413/python)
 + [Ubuntu Cheatsheet](https://github.com/Aaronontheweb/ubuntu-cheatsheet)
 
-### <a name="#sourcecodeforbooks"></a> 1.2 Source Code for Books
+### <a name="sourcecodeforbooks"></a> 1.2 Source Code for Books
 + [Algorithms: 4th Edition](https://github.com/kevin-wayne/algs4)
 + [Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 + [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
@@ -216,4 +219,5 @@ This repository contains my starred repositories grouped into different categori
 + [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
 + [Every Programmer should know](https://github.com/mr-mig/every-programmer-should-know)
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
++ [Leetcode Solutions](https://github.com/kamyu104/LeetCode)
 + [Tech-Interview handbook](https://github.com/yangshun/tech-interview-handbook)
