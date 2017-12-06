@@ -37,6 +37,7 @@ This repository contains my starred repositories grouped into different categori
 + [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 + [Awesome Programming Books](https://github.com/jobbole/awesome-programming-books)
 + [Awesome Python in Chinese](https://github.com/jobbole/awesome-python-cn)
++ [Data Structure and Algorithms in Python](https://github.com/keon/algorithms)
 + [Free Programming Books](https://github.com/justjavac/free-programming-books-zh_CN)
 + [Practical Programming Books](https://github.com/EZLippi/practical-programming-books)
 + [Python Programming: Games and Problems](https://github.com/norvig/pytudes)
@@ -60,6 +61,7 @@ This repository contains my starred repositories grouped into different categori
 ### <a name="ml"></a> 2.1 Machine Learning
 + [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 + [Awesome Machine Learning in Chinese](https://github.com/jobbole/awesome-machine-learning-cn)
++ [Awesome Machine Learning on Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 + [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 + [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 + [Machine Learning and Pattern Recognition Tutorials](https://github.com/rasbt/pattern_classification)
@@ -95,6 +97,7 @@ This repository contains my starred repositories grouped into different categori
 + [Deep Learning Project](https://github.com/Spandan-Madan/DeepLearningProject)
 + [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 + [Deep Learning With Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
++ [Fast.ai Courses](https://github.com/fastai/courses)
 + [Fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml)
 + [Neural Networks for Beginners](https://github.com/AILabUSiena/NeuralNetworksForBeginners)
 + [Simplified Deep Learning](https://github.com/exacity/simplified-deeplearning)
@@ -102,10 +105,13 @@ This repository contains my starred repositories grouped into different categori
 + [Qix: Machine Learning, Deep Learning](https://github.com/ty4z2008/Qix)
 
 ### <a name="rl"></a> 2.3. Reinforcement Learning
++ [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 + [Reinforcement Learning I](https://github.com/dennybritz/reinforcement-learning)
 + [Reinforcement Learning II](https://github.com/rlcode/reinforcement-learning)
 
 ### <a name="toolkit"></a> 2.4 Toolkit or Library
++ [Apache Hadoop](https://github.com/apache/hadoop)
++ [Apache Spark](https://github.com/apache/spark)
 + [Caffe](https://github.com/BVLC/caffe)
 + [Caffe2](https://github.com/caffe2/caffe2)
 + [CNTK](https://github.com/Microsoft/CNTK)
@@ -119,15 +125,18 @@ This repository contains my starred repositories grouped into different categori
   - [PyTorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
 + [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
 + [Tensorflow](https://github.com/tensorflow/tensorflow)
-  - [Tensorflow Tutorials: Stanford](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
-  - [Tensorflow Tutorials: Morvan](https://github.com/MorvanZhou/Tensorflow-Tutorial)
-  - [TensorFlow Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-  - [Tensorflow Practices](https://github.com/vahidk/EffectiveTensorflow)
-  - [Tensorflow Workshops](https://github.com/tensorflow/workshops)
   - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
-  - [Tensorflow with Latest Paper](https://github.com/NickShahML/tensorflow_with_latest_papers)
+  - [Tensorflow Experiments](https://github.com/jtoy/awesome-tensorflow)
   - [Tensorflow in Chinese](https://github.com/jikexueyuanwiki/tensorflow-zh)
+  - [Tensorflow Practices](https://github.com/vahidk/EffectiveTensorflow)
+  - [Tensorflow Tutorials: Morvan](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+  - [TensorFlow Tutorials: Nlintz](https://github.com/nlintz/TensorFlow-Tutorials)
+  - [Tensorflow Tutorials: Pkmital](https://github.com/pkmital/tensorflow_tutorials)
+  - [Tensorflow Tutorials: Stanford](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+  - [Tensorflow With Latest Paper](https://github.com/NickShahML/tensorflow_with_latest_papers)
+  - [Tensorflow Workshops](https://github.com/tensorflow/workshops)
   - [tflearn](https://github.com/tflearn/tflearn)
++ [Theano](https://github.com/Theano/Theano)
 
 ### <a name="GAN"></a> 2.5 Generative Adversial Networks
 + [Bayes GAN](https://github.com/andrewgordonwilson/bayesgan)
@@ -143,6 +152,7 @@ This repository contains my starred repositories grouped into different categori
 + [Wasserstein GANs](https://github.com/keon/text-wgan)
 
 ### <a name="NLP"></a> 2.6 NLP(Natural Language Processing)
++ [Awesome NLP](https://github.com/keon/awesome-nlp)
 + [Oxford NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 + [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 + **Language Modelling**
