@@ -153,6 +153,8 @@ This repository contains my starred repositories grouped into different categori
 
 ### <a name="NLP"></a> 2.6 NLP(Natural Language Processing)
 + [Awesome NLP](https://github.com/keon/awesome-nlp)
++ [CMU NN4NLP](https://github.com/neubig/nn4nlp2017-code)
++ [NLP Tutorial](https://github.com/neubig/nlptutorial)
 + [Oxford NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 + [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 + **Language Modelling**
@@ -208,10 +210,11 @@ This repository contains my starred repositories grouped into different categori
 
 ## <a name="gp"></a>  4. Github Pages
 + [Emoji Cheatsheet](https://github.com/WebpageFX/emoji-cheat-sheet.com)
-+ [Icons for Github Pages or Github Markdown](https://github.com/edent/SuperTinyIcons)
-+ **Themes**
++ [Hexo Themes](https://github.com/hexojs/hexo)
   - [Academic Pages](https://github.com/academicpages/academicpages.github.io)
+  - [cnfeat.com](https://github.com/cnfeat/cnfeat.github.io)
   - [Rvlasveld](https://github.com/rvlasveld/rvlasveld.github.io)
++ [Icons for Github Pages or Github Markdown](https://github.com/edent/SuperTinyIcons)
 
 * * *
 
@@ -231,3 +234,4 @@ This repository contains my starred repositories grouped into different categori
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
 + [Leetcode Solutions](https://github.com/kamyu104/LeetCode)
 + [Tech-Interview handbook](https://github.com/yangshun/tech-interview-handbook)
++ [The Art of Programming: Interview and Algorithms](https://github.com/julycoding/The-Art-Of-Programming-By-July)
