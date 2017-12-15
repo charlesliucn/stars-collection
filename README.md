@@ -165,6 +165,8 @@ This repository contains my starred repositories grouped into different categori
   - [RNN: character-level](https://github.com/sherjilozair/char-rnn-tensorflow)
 + **Text Generation**
   - [RNN Text Generation](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow)
++ **Toolkit**
+  - [XenC: Data Selection for Language Processing](https://github.com/antho-rousseau/XenC)
 + **Word Clustering**
   - [Brown Clustering](https://github.com/mheilman/tan-clustering)
 + **Word Embedding/Word2Vec**
