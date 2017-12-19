@@ -213,13 +213,9 @@ This repository contains my starred repositories grouped into different categori
 
 ## <a name="gp"></a>  4. Github Pages
 + [Emoji Cheatsheet](https://github.com/WebpageFX/emoji-cheat-sheet.com)
-<<<<<<< HEAD
 + [GitHub Profile Summary](https://github.com/tipsy/github-profile-summary)
 + [Icons for Github Pages or Github Markdown](https://github.com/edent/SuperTinyIcons)
-+ **Themes**
-=======
 + [Hexo Themes](https://github.com/hexojs/hexo)
->>>>>>> baeb88b41f71be90b565fc829455c43effbfc71c
   - [Academic Pages](https://github.com/academicpages/academicpages.github.io)
   - [cnfeat.com](https://github.com/cnfeat/cnfeat.github.io)
   - [Rvlasveld](https://github.com/rvlasveld/rvlasveld.github.io)
