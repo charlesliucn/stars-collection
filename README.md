@@ -120,6 +120,7 @@ This repository contains my starred repositories grouped into different categori
 + [Keras](https://github.com/fchollet/keras)
 + [MXNet/Gluon](https://github.com/mli/gluon-tutorials-zh)
 + [PyTorch](https://github.com/pytorch/pytorch)
+  - [Awesome PyTorch List](https://github.com/bharathgs/Awesome-pytorch-list)
   - [PyTorch Examples](https://github.com/pytorch/examples)
   - [PyTorch Tutorials](https://github.com/hunkim/PyTorchZeroToAll)
   - [PyTorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
@@ -215,6 +216,8 @@ This repository contains my starred repositories grouped into different categori
 
 ## <a name="gp"></a>  4. Github Pages
 + [Emoji Cheatsheet](https://github.com/WebpageFX/emoji-cheat-sheet.com)
++ [GitHub Profile Summary](https://github.com/tipsy/github-profile-summary)
++ [Icons for Github Pages or Github Markdown](https://github.com/edent/SuperTinyIcons)
 + [Hexo Themes](https://github.com/hexojs/hexo)
   - [Academic Pages](https://github.com/academicpages/academicpages.github.io)
   - [cnfeat.com](https://github.com/cnfeat/cnfeat.github.io)
