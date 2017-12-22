@@ -35,6 +35,7 @@ This repository contains my starred repositories grouped into different categori
 ## <a name="programming"></a> 1. Programming
 ### <a name="tutorialscheatsheets"></a> 1.1 Tutorials & Cheatsheets
 + [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
++ [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 + [Awesome Programming Books](https://github.com/jobbole/awesome-programming-books)
 + [Awesome Python in Chinese](https://github.com/jobbole/awesome-python-cn)
 + [Data Structure and Algorithms in Python](https://github.com/keon/algorithms)
@@ -75,7 +76,6 @@ This repository contains my starred repositories grouped into different categori
 + [Machine Learning Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
 + [Machine Learning in Action](https://github.com/apachecn/MachineLearning)
 + [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
-+ [Machine Learning Mindmap II](https://github.com/dformoso/machine-learning-mindmap)
 + [Machine Learning Tutorials: Python3](https://github.com/ethen8181/machine-learning)
 + [Machine Learning Tutorials: Morvan](https://github.com/MorvanZhou/tutorials)
 + [Machine Learning Udacity Course](https://github.com/udacity/machine-learning)
@@ -137,6 +137,7 @@ This repository contains my starred repositories grouped into different categori
   - [Tensorflow Workshops](https://github.com/tensorflow/workshops)
   - [tflearn](https://github.com/tflearn/tflearn)
 + [Theano](https://github.com/Theano/Theano)
++ [TuriCreate](https://github.com/apple/turicreate)
 
 ### <a name="GAN"></a> 2.5 Generative Adversial Networks
 + [Bayes GAN](https://github.com/andrewgordonwilson/bayesgan)
@@ -170,10 +171,12 @@ This repository contains my starred repositories grouped into different categori
 + **Word Clustering**
   - [Brown Clustering](https://github.com/mheilman/tan-clustering)
 + **Word Embedding/Word2Vec**
+  - [Four word2vec methods in Python](https://github.com/deborausujono/word2vecpy)
   - [GloVe Algorithm I: Tensorflow](https://github.com/GradySimon/tensorflow-glove)
   - [GloVe Algorithm II: Simple Python](https://github.com/maciejkula/glove-python)
   - [GloVe Algorithm III: Stanford Version](https://github.com/stanfordnlp/GloVe)
   - [Google word2vec](https://github.com/klb3713/word2vec)
+  - [Intrinsic Evaluation](https://github.com/ytsvetko/qvec)
   - [Skip-Gram and CBOW I](https://github.com/dav/word2vec)
   - [Skip-Gram and CBOW II](https://github.com/deborausujono/word2vecpy)
   - [Skip-Gram and Negative Sampling](https://github.com/tscheepers/word2vec)
@@ -226,6 +229,7 @@ This repository contains my starred repositories grouped into different categori
 + [Awesome Github Wechat App](https://github.com/opendigg/awesome-github-wechat-weapp)
 + [Awesome Technology](https://github.com/ngEdmundas/awesome-technology/wiki)
 + [Awesome Wechat App](https://github.com/justjavac/awesome-wechat-weapp)
++ [NIPS 2017 Resources](https://github.com/hindupuravinash/nips2017)
 + [Papers on Computer Science](https://github.com/papers-we-love/papers-we-love)
 
 * * *
