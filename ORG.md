@@ -11,6 +11,7 @@ This repository contains the Organizations I want to follow, just for convenienc
 + [Didi](https://github.com/didi)
 + [Douban](https://github.com/douban)
 + [FaceBook](https://github.com/facebook)
++ [FaceBook Research](https://github.com/facebookresearch)
 + [Google](https://github.com/google)
 + [Huawei](https://github.com/Huawei)
 + [JetBrains](https://github.com/JetBrains)

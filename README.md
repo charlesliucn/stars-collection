@@ -178,6 +178,7 @@ This repository contains my starred repositories grouped into different categori
   - [GloVe Algorithm III: Stanford Version](https://github.com/stanfordnlp/GloVe)
   - [Google word2vec](https://github.com/klb3713/word2vec)
   - [Intrinsic Evaluation](https://github.com/ytsvetko/qvec)
+  - [ Multilingual Unsupervised or Supervised word Embeddings](https://github.com/facebookresearch/MUSE)
   - [Skip-Gram and CBOW I](https://github.com/dav/word2vec)
   - [Skip-Gram and CBOW II](https://github.com/deborausujono/word2vecpy)
   - [Skip-Gram and Negative Sampling](https://github.com/tscheepers/word2vec)
@@ -232,6 +233,7 @@ This repository contains my starred repositories grouped into different categori
 + [Awesome Github Wechat App](https://github.com/opendigg/awesome-github-wechat-weapp)
 + [Awesome Technology](https://github.com/ngEdmundas/awesome-technology/wiki)
 + [Awesome Wechat App](https://github.com/justjavac/awesome-wechat-weapp)
++ [Music Programming Language](https://github.com/alda-lang/alda)
 + [NIPS 2017 Resources](https://github.com/hindupuravinash/nips2017)
 + [Papers on Computer Science](https://github.com/papers-we-love/papers-we-love)
 
