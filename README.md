@@ -47,6 +47,7 @@ This repository contains my starred repositories grouped into different categori
 
 ### <a name="sourcecodeforbooks"></a> 1.2 Source Code for Books
 + [Algorithms: 4th Edition](https://github.com/kevin-wayne/algs4)
++ [Algorithms (4th edition)](https://github.com/jimmysuncpt/Algorithms)
 + [Building Machine Learning Systems with Python](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
 + [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
 + [Machine Learning for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
@@ -126,9 +127,11 @@ This repository contains my starred repositories grouped into different categori
   - [PyTorch Tutorials](https://github.com/yunjey/pytorch-tutorial)
 + [Scikit-Learn](https://github.com/scikit-learn/scikit-learn)
 + [Tensorflow](https://github.com/tensorflow/tensorflow)
+  - [Tensorboard](https://github.com/tensorflow/tensorboard)
   - [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
   - [Tensorflow Experiments](https://github.com/jtoy/awesome-tensorflow)
   - [Tensorflow in Chinese](https://github.com/jikexueyuanwiki/tensorflow-zh)
+  - [Tensorflow models](https://github.com/tensorflow/models)
   - [Tensorflow Practices](https://github.com/vahidk/EffectiveTensorflow)
   - [Tensorflow Tutorials: Morvan](https://github.com/MorvanZhou/Tensorflow-Tutorial)
   - [TensorFlow Tutorials: Nlintz](https://github.com/nlintz/TensorFlow-Tutorials)
@@ -144,7 +147,8 @@ This repository contains my starred repositories grouped into different categori
 + [Bayes GAN](https://github.com/andrewgordonwilson/bayesgan)
 + [Collection of GANs](https://github.com/hindupuravinash/the-gan-zoo)
 + [Introduction to GAN](https://github.com/AYLIEN/gan-intro)
-+ [Imporved WGANs](https://github.com/igul222/improved_wgan_training)
++ [Improved WGANs: Pytorch](https://github.com/caogang/wgan-gp)
++ [Imporved WGANs: Tensorflow](https://github.com/igul222/improved_wgan_training)
 + [GAN models](https://github.com/wiseodd/generative-models)
 + [Generative Adversial Networks](https://github.com/YadiraF/GAN)
 + [Leak GAN](https://github.com/CR-Gjx/LeakGAN)
@@ -160,13 +164,18 @@ This repository contains my starred repositories grouped into different categori
 + [Oxford NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
 + [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 + **Language Modelling**
+  - [1 Billion Word Benchmark](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark)
   - [char-RNN](https://github.com/karpathy/char-rnn)
+  - [Exploring the limits of language modeling](https://github.com/rafaljozefowicz/lm)
   - [Gated CNN](https://github.com/anantzoid/Language-Modeling-GatedCNN)
   - [LSTM: subword units](https://github.com/claravania/subword-lstm-lm/branches)
   - [RNN: word-level](https://github.com/hunkim/word-rnn-tensorflow)
   - [RNN: character-level](https://github.com/sherjilozair/char-rnn-tensorflow)
+  - [State of the art Language model](https://github.com/okuchaiev/f-lm)
 + **Text Generation**
   - [RNN Text Generation](https://github.com/spiglerg/RNN_Text_Generation_Tensorflow)
+  - [Word Level Text Generation: RNN](https://github.com/rdcolema/word-level-rnn-for-text-generation)
+  - [Word Level Text Generation using Keras](https://github.com/vlraik/word-level-rnn-keras)
 + **Toolkit**
   - [XenC: Data Selection for Language Processing](https://github.com/antho-rousseau/XenC)
 + **Word Clustering**
