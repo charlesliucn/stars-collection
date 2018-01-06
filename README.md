@@ -10,6 +10,7 @@ This repository contains my starred repositories grouped into different categori
 ### [1. Programming](#programming)
   - [1.1 Tutorials & Cheatsheets](#tutorialscheatsheets)
   - [1.2 Source Code for Books](#sourcecodeforbooks)
+  - [1.3 Coding Websites and contests](#codingcontest)
 
 ### [2. Machine Learning & Deep Learning](#mldl)
   - [2.1 Machine Learning](#ml)
@@ -56,6 +57,10 @@ This repository contains my starred repositories grouped into different categori
 + [Pattern Recognition and Machine Learning: Python](https://github.com/ctgk/PRML)
 + [The Elements of Statistical Learning: I](https://github.com/szcf-weiya/ESL-CN)
 + [The Elements of Statistical Learning: II](https://github.com/ajtulloch/Elements-of-Statistical-Learning)
+
+### <a name="codingcontest"></a> 1.3 Contests for Programming
++ [Algorithm Solutions](https://github.com/intfloat/AlgoSolutions)
++ [Leetcode Solutions](https://github.com/kamyu104/LeetCode)
 
 * * *
 
@@ -221,6 +226,7 @@ This repository contains my starred repositories grouped into different categori
 + **Competition**
   - [Tianchi Competition](https://github.com/Jessicamidi/IJCAI17_Tianchi_Rank4)
   - [Zhihu Competition](https://github.com/chenyuntc/PyTorchText)
+  - [Kaggle](https://github.com/apachecn/kaggle)
 
 * * *
 
@@ -245,6 +251,9 @@ This repository contains my starred repositories grouped into different categori
 + [Music Programming Language](https://github.com/alda-lang/alda)
 + [NIPS 2017 Resources](https://github.com/hindupuravinash/nips2017)
 + [Papers on Computer Science](https://github.com/papers-we-love/papers-we-love)
++ **Interesting Applications**
+	- [shadowsocks windows](https://github.com/shadowsocks/shadowsocks-windows)
+	- [qrcode generator](https://github.com/sylnsfar/qrcode)
 
 * * *
 
@@ -252,6 +261,8 @@ This repository contains my starred repositories grouped into different categori
 + [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
 + [Every Programmer should know](https://github.com/mr-mig/every-programmer-should-know)
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
-+ [Leetcode Solutions](https://github.com/kamyu104/LeetCode)
 + [Tech-Interview handbook](https://github.com/yangshun/tech-interview-handbook)
 + [The Art of Programming: Interview and Algorithms](https://github.com/julycoding/The-Art-Of-Programming-By-July)
++ **Courses**
+	- [Coursera](https://github.com/intfloat/coursera)
+  - [Self-Taught Computer Science](https://github.com/ossu/computer-science)
