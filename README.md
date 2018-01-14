@@ -1,7 +1,7 @@
 # My Starred Repositories [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 This repository contains my starred repositories grouped into different categories.
 
-**Date:** Dec. 5th, 2017
+**Last Update:** Jan. 14th, 2018
 
 **Author:** [@charlesliucn](https://github.com/charlesliucn)
 
@@ -100,7 +100,8 @@ This repository contains my starred repositories grouped into different categori
 + [Deep Learning Papers](https://github.com/sbrugman/deep-learning-papers)
 + [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 + [Deep Learning Papers and Notes](https://github.com/dennybritz/deeplearning-papernotes)
-+ [Deep Learning Project](https://github.com/Spandan-Madan/DeepLearningProject)
++ [Deep Learning Project I](https://github.com/Spandan-Madan/DeepLearningProject)
++ [Deep Learning Project II](https://github.com/priya-dwivedi/Deep-Learning)
 + [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 + [Deep Learning With Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 + [Fast.ai Courses](https://github.com/fastai/courses)
@@ -223,6 +224,7 @@ This repository contains my starred repositories grouped into different categori
 + [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 + [Data Science With Python](https://github.com/ujjwalkarn/DataSciencePython)
 + [FullStack Data Engineer](https://github.com/Honlan/fullstack-data-engineer)
++ [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 + **Competition**
   - [Tianchi Competition](https://github.com/Jessicamidi/IJCAI17_Tianchi_Rank4)
   - [Zhihu Competition](https://github.com/chenyuntc/PyTorchText)
@@ -258,11 +260,14 @@ This repository contains my starred repositories grouped into different categori
 * * *
 
 ## <a name="job"></a>  6. Job and Career
++ [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 + [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
++ [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 + [Every Programmer should know](https://github.com/mr-mig/every-programmer-should-know)
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
-+ [Tech-Interview handbook](https://github.com/yangshun/tech-interview-handbook)
++ [Technical Interview](https://github.com/andreis/interview)
++ [Technical Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
 + [The Art of Programming: Interview and Algorithms](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 + **Courses**
 	- [Coursera](https://github.com/intfloat/coursera)
-  - [Self-Taught Computer Science](https://github.com/ossu/computer-science)
+	- [Self-Taught Computer Science](https://github.com/ossu/computer-science)
