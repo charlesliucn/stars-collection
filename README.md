@@ -42,6 +42,9 @@ This repository contains my starred repositories grouped into different categori
 + [Data Structure and Algorithms in Python](https://github.com/keon/algorithms)
 + [Free Programming Books](https://github.com/justjavac/free-programming-books-zh_CN)
 + [Practical Programming Books](https://github.com/EZLippi/practical-programming-books)
++ [Python: Algorithms Implementation](https://github.com/prakhar1989/Algorithms)
++ [Python: Gensim NLP Toolkit](https://github.com/RaRe-Technologies/gensim)
++ [Python: Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
 + [Python Programming: Games and Problems](https://github.com/norvig/pytudes)
 + [Python Programming](https://github.com/xxg1413/python)
 + [Ubuntu Cheatsheet](https://github.com/Aaronontheweb/ubuntu-cheatsheet)
@@ -104,12 +107,14 @@ This repository contains my starred repositories grouped into different categori
 + [Deep Learning Project II](https://github.com/priya-dwivedi/Deep-Learning)
 + [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 + [Deep Learning With Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
++ [Deep Learning With 21 examples](https://github.com/hzy46/Deep-Learning-21-Examples)
 + [Fast.ai Courses](https://github.com/fastai/courses)
 + [Fundamentals of Machine Learning and Deep Learning](https://github.com/ageron/handson-ml)
 + [Neural Networks for Beginners](https://github.com/AILabUSiena/NeuralNetworksForBeginners)
 + [Simplified Deep Learning](https://github.com/exacity/simplified-deeplearning)
 + [Solutions to deeplearning.ai](https://github.com/Yukong/Deeplearning.ai-Solutions)
 + [Qix: Machine Learning, Deep Learning](https://github.com/ty4z2008/Qix)
++ [Udacity: Deep-Learning Course](https://github.com/thushv89/udacity_deeplearning_complete)
 
 ### <a name="rl"></a> 2.3. Reinforcement Learning
 + [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
@@ -165,6 +170,7 @@ This repository contains my starred repositories grouped into different categori
 
 ### <a name="NLP"></a> 2.6 NLP(Natural Language Processing)
 + [Awesome NLP](https://github.com/keon/awesome-nlp)
++ [Chinese natural language processing: Fudan University](https://github.com/FudanNLP/fnlp)
 + [CMU NN4NLP](https://github.com/neubig/nn4nlp2017-code)
 + [NLP Tutorial](https://github.com/neubig/nlptutorial)
 + [Oxford NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -173,8 +179,11 @@ This repository contains my starred repositories grouped into different categori
   - [1 Billion Word Benchmark](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark)
   - [char-RNN](https://github.com/karpathy/char-rnn)
   - [Exploring the limits of language modeling](https://github.com/rafaljozefowicz/lm)
+  - [F-LSTM G-LSTM Language Modeling](https://github.com/okuchaiev/f-lm)
   - [Gated CNN](https://github.com/anantzoid/Language-Modeling-GatedCNN)
   - [LSTM: subword units](https://github.com/claravania/subword-lstm-lm/branches)
+  - [LSTM cell Test by language modeling](https://github.com/asahi417/LSTMCell)
+  - [Recurrent Highway Networks](https://github.com/julian121266/RecurrentHighwayNetworks)
   - [RNN: word-level](https://github.com/hunkim/word-rnn-tensorflow)
   - [RNN: character-level](https://github.com/sherjilozair/char-rnn-tensorflow)
   - [State of the art Language model](https://github.com/okuchaiev/f-lm)
@@ -186,7 +195,9 @@ This repository contains my starred repositories grouped into different categori
   - [XenC: Data Selection for Language Processing](https://github.com/antho-rousseau/XenC)
 + **Word Clustering**
   - [Brown Clustering](https://github.com/mheilman/tan-clustering)
+  - [Compute Distance Between Sequences](https://github.com/orsinium/textdistance)
 + **Word Embedding/Word2Vec**
+  - [Fast Text](https://github.com/facebookresearch/fastText)
   - [Four word2vec methods in Python](https://github.com/deborausujono/word2vecpy)
   - [GloVe Algorithm I: Tensorflow](https://github.com/GradySimon/tensorflow-glove)
   - [GloVe Algorithm II: Simple Python](https://github.com/maciejkula/glove-python)
@@ -229,6 +240,7 @@ This repository contains my starred repositories grouped into different categori
   - [Tianchi Competition](https://github.com/Jessicamidi/IJCAI17_Tianchi_Rank4)
   - [Zhihu Competition](https://github.com/chenyuntc/PyTorchText)
   - [Kaggle](https://github.com/apachecn/kaggle)
+  - [ML/DL Competition List](https://github.com/PPshrimpGo/CompetitionList)
 
 * * *
 
@@ -267,7 +279,9 @@ This repository contains my starred repositories grouped into different categori
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
 + [Technical Interview](https://github.com/andreis/interview)
 + [Technical Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
++ [Technical Interview Notebook](https://github.com/CyC2018/Interview-Notebook)
 + [The Art of Programming: Interview and Algorithms](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 + **Courses**
 	- [Coursera](https://github.com/intfloat/coursera)
 	- [Self-Taught Computer Science](https://github.com/ossu/computer-science)
+  - [Deep Learning Cousera](https://github.com/Kulbear/deep-learning-coursera)
