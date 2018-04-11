@@ -38,6 +38,7 @@ This repository contains my starred repositories grouped into different categori
 + [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 + [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 + [Awesome Programming Books](https://github.com/jobbole/awesome-programming-books)
++ [Awesome Python](https://github.com/vinta/awesome-python)
 + [Awesome Python in Chinese](https://github.com/jobbole/awesome-python-cn)
 + [Data Structure and Algorithms in Python](https://github.com/keon/algorithms)
 + [Free Programming Books](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -60,6 +61,7 @@ This repository contains my starred repositories grouped into different categori
 + [Pattern Recognition and Machine Learning: Python](https://github.com/ctgk/PRML)
 + [The Elements of Statistical Learning: I](https://github.com/szcf-weiya/ESL-CN)
 + [The Elements of Statistical Learning: II](https://github.com/ajtulloch/Elements-of-Statistical-Learning)
++ [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ### <a name="codingcontest"></a> 1.3 Contests for Programming
 + [Algorithm Solutions](https://github.com/intfloat/AlgoSolutions)
@@ -85,6 +87,7 @@ This repository contains my starred repositories grouped into different categori
 + [Machine Learning Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
 + [Machine Learning in Action](https://github.com/apachecn/MachineLearning)
 + [Machine Learning Mindmap](https://github.com/dformoso/machine-learning-mindmap)
++ [Machine Learning Notes](https://github.com/roboticcam/machine-learning-notes)
 + [Machine Learning Tutorials: Python3](https://github.com/ethen8181/machine-learning)
 + [Machine Learning Tutorials: Morvan](https://github.com/MorvanZhou/tutorials)
 + [Machine Learning Udacity Course](https://github.com/udacity/machine-learning)
@@ -170,10 +173,14 @@ This repository contains my starred repositories grouped into different categori
 
 ### <a name="NLP"></a> 2.6 NLP(Natural Language Processing)
 + [Awesome NLP](https://github.com/keon/awesome-nlp)
++ [Awesome Chinese NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
 + [Chinese natural language processing: Fudan University](https://github.com/FudanNLP/fnlp)
 + [CMU NN4NLP](https://github.com/neubig/nn4nlp2017-code)
 + [NLP Tutorial](https://github.com/neubig/nlptutorial)
++ [NLP Shell Tutorial](https://github.com/HIT-SCIR/scir-training-day)
++ [Deep Learning for NLP Resources](https://github.com/andrewt3000/DL4NLP)
 + [Oxford NLP Lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)
++ [Python and Cython for NLP](https://github.com/explosion/spaCy)
 + [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 + **Language Modelling**
   - [1 Billion Word Benchmark](https://github.com/ciprian-chelba/1-billion-word-language-modeling-benchmark)
@@ -195,6 +202,8 @@ This repository contains my starred repositories grouped into different categori
   - [XenC: Data Selection for Language Processing](https://github.com/antho-rousseau/XenC)
 + **Word Clustering**
   - [Brown Clustering](https://github.com/mheilman/tan-clustering)
++ **Text Processing**
+  - [Text Classifier](https://github.com/richliao/textClassifier)
   - [Compute Distance Between Sequences](https://github.com/orsinium/textdistance)
 + **Word Embedding/Word2Vec**
   - [Fast Text](https://github.com/facebookresearch/fastText)
@@ -237,6 +246,7 @@ This repository contains my starred repositories grouped into different categori
 + [FullStack Data Engineer](https://github.com/Honlan/fullstack-data-engineer)
 + [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 + **Competition**
+  - [Awesome Public DataSet](https://github.com/awesomedata/awesome-public-datasets)
   - [Tianchi Competition](https://github.com/Jessicamidi/IJCAI17_Tianchi_Rank4)
   - [Zhihu Competition](https://github.com/chenyuntc/PyTorchText)
   - [Kaggle](https://github.com/apachecn/kaggle)
@@ -274,6 +284,7 @@ This repository contains my starred repositories grouped into different categori
 ## <a name="job"></a>  6. Job and Career
 + [Awesome Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 + [Best Resume Ever](https://github.com/salomonelli/best-resume-ever)
++ [Coding Interview](https://github.com/Wang-Jun-Chao/coding-interviews)
 + [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 + [Every Programmer should know](https://github.com/mr-mig/every-programmer-should-know)
 + [Latex Templates Collection](https://github.com/cmichi/latex-template-collection)
@@ -284,4 +295,4 @@ This repository contains my starred repositories grouped into different categori
 + **Courses**
 	- [Coursera](https://github.com/intfloat/coursera)
 	- [Self-Taught Computer Science](https://github.com/ossu/computer-science)
-  - [Deep Learning Cousera](https://github.com/Kulbear/deep-learning-coursera)
+	- [Deep Learning Cousera](https://github.com/Kulbear/deep-learning-coursera)
