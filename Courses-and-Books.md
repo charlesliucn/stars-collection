@@ -3,7 +3,7 @@
 1. **认识文化遗产**
 + 世界遗产与年轻人
 
-2. **机器学习与类脑智能	**	
+2. **机器学习与类脑智能**	
 + Statistical Learning Theory
 + From Single Neurons to Networks and Models of Cognition
 + Deep Learning Book
