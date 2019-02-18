@@ -7,7 +7,6 @@ This repository contains my starred repositories grouped into different categori
 
 **Newest Stars** see [here](https://nbviewer.jupyter.org/github/charlesliucn/stars-collection/blob/master/GitHub-Links.pdf).
 
-===
 
 * * *
 ## Table of Contents
