@@ -1,9 +1,13 @@
 # My Starred Repositories [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 This repository contains my starred repositories grouped into different categories.
 
-**Last Update:** Jan. 14th, 2018
+**Last Update:** Feb. 18th, 2019
 
 **Author:** [@charlesliucn](https://github.com/charlesliucn)
+
+**Newest Stars** see [here](https://nbviewer.jupyter.org/github/charlesliucn/stars-collection/blob/master/GitHub-Links.pdf).
+
+===
 
 * * *
 ## Table of Contents
