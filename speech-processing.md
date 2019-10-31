@@ -19,19 +19,14 @@
 ## Speech Recognition
 
 ### Toolkits
-
-1. Kaldi Related
 - awesome-kaldi [(https://github.com/YoavRamon/awesome-kaldi)](https://github.com/YoavRamon/awesome-kaldi)
-
 - kaldi [(https://github.com/tramphero/kaldi)](https://github.com/tramphero/kaldi)
 - pykaldi [(https://github.com/pykaldi/pykaldi)](https://github.com/pykaldi/pykaldi)
 - pykaldi2 [(https://github.com/jzlianglu/pykaldi2)](https://github.com/jzlianglu/pykaldi2)
 - py-kaldi-asr [(https://github.com/gooofy/py-kaldi-asr)](https://github.com/gooofy/py-kaldi-asr)
-
 - pytorch-kaldi [(https://github.com/mravanelli/pytorch-kaldi)](https://github.com/mravanelli/pytorch-kaldi)
 - tfkaldi [(https://github.com/vrenkens/tfkaldi)](https://github.com/vrenkens/tfkaldi)
 - keras-kaldi [(https://github.com/dspavankumar/keras-kaldi)](https://github.com/dspavankumar/keras-kaldi)
-
 - kaldi-ctc [(https://github.com/lingochamp/kaldi-ctc)](https://github.com/lingochamp/kaldi-ctc)
 - kaldi-onnx [(https://github.com/XiaoMi/kaldi-onnx)](https://github.com/XiaoMi/kaldi-onnx)
 - kaldi2htk [(https://github.com/dansoutner/kaldi2htk)](https://github.com/dansoutner/kaldi2htk)
@@ -41,16 +36,15 @@
 - kaldiio [(https://github.com/nttcslab-sp/kaldiio)](https://github.com/nttcslab-sp/kaldiio)
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
 
-2. Other Toolkits
+
+
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
 - Synthetic-Boosted-DeepSpeech [(https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)](https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)
-
 - espnet [(https://github.com/espnet/espnet)](https://github.com/espnet/espnet)
 - espnet-tts [(https://github.com/r9y9/icassp2020-espnet-tts-merlin-baseline)](https://github.com/r9y9/icassp2020-espnet-tts-merlin-baseline)
 - espnet-semi-supervised [(https://github.com/ShigekiKarita/espnet-semi-supervised)](https://github.com/ShigekiKarita/espnet-semi-supervised)
 - espnet-tutorial [(https://github.com/espnet/interspeech2019-tutorial)](https://github.com/espnet/interspeech2019-tutorial)
-
 - espresso [(https://github.com/freewym/espresso)](https://github.com/freewym/espresso)
 - HTK [(https://github.com/open-speech/HTK)](https://github.com/open-speech/HTK)
 - julius [(https://github.com/julius-speech/julius)](https://github.com/julius-speech/julius)
@@ -58,9 +52,9 @@
 - eesen [(https://github.com/srvk/eesen)](https://github.com/srvk/eesen)
 - delta [(https://github.com/didi/delta)](https://github.com/didi/delta)
 
-3. Other Repos
-- Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
 
+
+- Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
 - Speech-Transformer [(https://github.com/kaituoxu/Speech-Transformer)](https://github.com/kaituoxu/Speech-Transformer)
 - Speech-Tranformer-Pytorch [(https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch)](https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch)
 - Alibaba-MIT-Speech [(https://github.com/alibaba/Alibaba-MIT-Speech)](https://github.com/alibaba/Alibaba-MIT-Speech)
@@ -69,12 +63,10 @@
 - ASRT_SpeechRecognition [(https://github.com/nl8590687/ASRT_SpeechRecognition)](https://github.com/nl8590687/ASRT_SpeechRecognition)
 - Automatic_Speech_Recognition [(https://github.com/zzw922cn/Automatic_Speech_Recognition)](https://github.com/zzw922cn/Automatic_Speech_Recognition)
 - speech_recognition [(https://github.com/Uberi/speech_recognition)](https://github.com/Uberi/speech_recognition)
-
 - speech-language-processing [(https://github.com/edobashira/speech-language-processing)](https://github.com/edobashira/speech-language-processing)
 - attention-lvcsr [(https://github.com/rizar/attention-lvcsr)](https://github.com/rizar/attention-lvcsr)
 - end2end-asr-pytorch [(https://github.com/gentaiscool/end2end-asr-pytorch)](https://github.com/gentaiscool/end2end-asr-pytorch)
 - E2E-ASR [(https://github.com/HawkAaron/E2E-ASR)](https://github.com/HawkAaron/E2E-ASR)
-
 - tensorflow_end2end_speech_recognition [(https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)
 - ASR_Syllable [(https://github.com/zw76859420/ASR_Syllable)](https://github.com/zw76859420/ASR_Syllable)
 - speech-to-text [(https://github.com/yh1008/speech-to-text)](https://github.com/yh1008/speech-to-text)
@@ -88,9 +80,7 @@
 - kaggle_speech_recognition [(https://github.com/huschen/kaggle_speech_recognition)](https://github.com/huschen/kaggle_speech_recognition)
 - Sigmedia-AVSR [(https://github.com/georgesterpu/Sigmedia-AVSR)](https://github.com/georgesterpu/Sigmedia-AVSR)
 - MAX-Speech-to-Text-Converter [(https://github.com/IBM/MAX-Speech-to-Text-Converter)](https://github.com/IBM/MAX-Speech-to-Text-Converter)
-
 - asr-evaluation [(https://github.com/belambert/asr-evaluation)](https://github.com/belambert/asr-evaluation)
-
 - pansori [(https://github.com/yc9701/pansori)](https://github.com/yc9701/pansori)
 
 ### Pronunciation Lexicon
