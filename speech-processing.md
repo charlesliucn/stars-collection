@@ -20,7 +20,7 @@
 
 ### Toolkits
 
-#### Kaldi Related
+1. Kaldi Related
 - awesome-kaldi [(https://github.com/YoavRamon/awesome-kaldi)](https://github.com/YoavRamon/awesome-kaldi)
 
 - kaldi [(https://github.com/tramphero/kaldi)](https://github.com/tramphero/kaldi)
@@ -41,7 +41,7 @@
 - kaldiio [(https://github.com/nttcslab-sp/kaldiio)](https://github.com/nttcslab-sp/kaldiio)
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
 
-#### Other Toolkits
+2. Other Toolkits
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
 - Synthetic-Boosted-DeepSpeech [(https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)](https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)
@@ -58,7 +58,7 @@
 - eesen [(https://github.com/srvk/eesen)](https://github.com/srvk/eesen)
 - delta [(https://github.com/didi/delta)](https://github.com/didi/delta)
 
-#### Other Repos
+3. Other Repos
 - Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
 
 - Speech-Transformer [(https://github.com/kaituoxu/Speech-Transformer)](https://github.com/kaituoxu/Speech-Transformer)
