@@ -25,7 +25,8 @@
 - TensorFlow-cn [(https://github.com/snowkylin/TensorFlow-cn)](https://github.com/snowkylin/TensorFlow-cn)
 - tensorflow-internals [(https://github.com/horance-liu/tensorflow-internals)](https://github.com/horance-liu/tensorflow-internals)
 - Tensorflow-Cookbook [(https://github.com/taki0112/Tensorflow-Cookbook)](https://github.com/taki0112/Tensorflow-Cookbook)
-
+- Statistical Learning Method [https://github.com/wzyonggege/statistical-learning-method](https://github.com/wzyonggege/statistical-learning-method)
+- Statistical Learning Method [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
 
 ### Natural Language Processing
 - nlp_tasks [(https://github.com/Kyubyong/nlp_tasks)](https://github.com/Kyubyong/nlp_tasks)

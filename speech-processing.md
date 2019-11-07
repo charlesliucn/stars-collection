@@ -32,9 +32,11 @@
 - kaldi2htk [(https://github.com/dansoutner/kaldi2htk)](https://github.com/dansoutner/kaldi2htk)
 - multi-task-kaldi [(https://github.com/JRMeyer/multi-task-kaldi)](https://github.com/JRMeyer/multi-task-kaldi)
 - kaldi-gstreamer-server [(https://github.com/alumae/kaldi-gstreamer-server)](https://github.com/alumae/kaldi-gstreamer-server)
+- kaldi-android-demo [https://github.com/alphacep/kaldi-android-demo](https://github.com/alphacep/kaldi-android-demo)
 - kaldi-io-for-python [(https://github.com/vesis84/kaldi-io-for-python)](https://github.com/vesis84/kaldi-io-for-python)
 - kaldiio [(https://github.com/nttcslab-sp/kaldiio)](https://github.com/nttcslab-sp/kaldiio)
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
+- wake-word detection [https://github.com/kaldi-asr/kaldi/pull/3467](https://github.com/kaldi-asr/kaldi/pull/3467)
 ---
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
@@ -101,6 +103,8 @@
 - kaldi-decoders [(https://github.com/jpuigcerver/kaldi-decoders)](https://github.com/jpuigcerver/kaldi-decoders)
 - kaldi-decoders [(https://github.com/chenzhehuai/kaldi-decoders)](https://github.com/chenzhehuai/kaldi-decoders)
 - rnnlm2wfst [(https://github.com/glecorve/rnnlm2wfst)](https://github.com/glecorve/rnnlm2wfst)
+- kaldi Lookahead Decoding [https://github.com/kaldi-asr/kaldi/pull/3616](https://github.com/kaldi-asr/kaldi/pull/3616)
+- Incremental Lattice Determinization [https://github.com/kaldi-asr/kaldi/pull/3317](https://github.com/kaldi-asr/kaldi/pull/3317)
 
 ### Audio Alignment
 - kaldi-long-audio-alignment [(https://github.com/srinivr/kaldi-long-audio-alignment)](https://github.com/srinivr/kaldi-long-audio-alignment)
@@ -136,7 +140,7 @@
 - datasets-CMU_Wilderness [(https://github.com/festvox/datasets-CMU_Wilderness)](https://github.com/festvox/datasets-CMU_Wilderness)
 - soundnet [(https://github.com/cvondrick/soundnet)](https://github.com/cvondrick/soundnet)
 - voice_datasets [(https://github.com/jim-schwoebel/voice_datasets)](https://github.com/jim-schwoebel/voice_datasets)
-- css10 [(- [css10]https://github.com/Kyubyong/css1)](- [css10]https://github.com/Kyubyong/css1)
+- css10 [(https://github.com/Kyubyong/css1)](https://github.com/Kyubyong/css1)
 - css10 [(https://github.com/Kyubyong/css10)](https://github.com/Kyubyong/css10)
 - SEAME-dev-set [(https://github.com/zengzp0912/SEAME-dev-set)](https://github.com/zengzp0912/SEAME-dev-set)
 - MELD [(https://github.com/SenticNet/MELD)](https://github.com/SenticNet/MELD)
