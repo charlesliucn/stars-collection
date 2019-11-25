@@ -37,6 +37,7 @@
 - kaldiio [(https://github.com/nttcslab-sp/kaldiio)](https://github.com/nttcslab-sp/kaldiio)
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
 - wake-word detection [https://github.com/kaldi-asr/kaldi/pull/3467](https://github.com/kaldi-asr/kaldi/pull/3467)
+- CSLT-THU kaldi cases [(https://github.com/tzyll/kaldi)](https://github.com/tzyll/kaldi)
 ---
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
@@ -93,6 +94,9 @@
 - g2pC [(https://github.com/Kyubyong/g2pC)](https://github.com/Kyubyong/g2pC)
 - sequitur-g2p [(https://github.com/sequitur-g2p/sequitur-g2p)](https://github.com/sequitur-g2p/sequitur-g2p)
 
+### Acoustic Modeling (specifically)
+- NN acoustic modeling (chainer) [(https://github.com/OrcusCZ/NNAcousticModeling)](https://github.com/OrcusCZ/NNAcousticModeling)
+
 ### Language Modeling
 - pocolm [(https://github.com/danpovey/pocolm)](https://github.com/danpovey/pocolm)
 - kenlm [(https://github.com/kpu/kenlm)](https://github.com/kpu/kenlm)
@@ -135,6 +139,9 @@
 - Voice Clone [(https://github.com/CorentinJ/Real-Time-Voice-Cloning)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - LightSpeech [(https://github.com/xcmyz/LightSpeech)](https://github.com/xcmyz/LightSpeech)
 - FastSpeech [(https://github.com/xcmyz/FastSpeech)](https://github.com/xcmyz/FastSpeech)
+- MelGAN [(https://github.com/descriptinc/melgan-neurips)](https://github.com/descriptinc/melgan-neurips)
+- GAN-TTS [(https://github.com/yanggeng1995/GAN-TTS)](https://github.com/yanggeng1995/GAN-TTS)
+- speech-to-text-benchmark [(https://github.com/Picovoice/speech-to-text-benchmark)](https://github.com/Picovoice/speech-to-text-benchmark)
 
 ### Audio Dataset
 - datasets-CMU_Wilderness [(https://github.com/festvox/datasets-CMU_Wilderness)](https://github.com/festvox/datasets-CMU_Wilderness)
@@ -148,8 +155,9 @@
 - aidatatang_200zh [(https://github.com/datatang-ailab/aidatatang_200zh)](https://github.com/datatang-ailab/aidatatang_200zh)
 - DALI [(https://github.com/gabolsgabs/DALI)](https://github.com/gabolsgabs/DALI)
 - RadioTalk [(https://github.com/social-machines/RadioTalk)](https://github.com/social-machines/RadioTalk)
+- ASR Audio data links [(https://github.com/robmsmt/ASR_Audio_Data_Links)](https://github.com/robmsmt/ASR_Audio_Data_Links)
 
-### Speech Denoising
+### Speech Denoising/Enhancement
 - speech-denoising-wavenet [(https://github.com/drethage/speech-denoising-wavenet)](https://github.com/drethage/speech-denoising-wavenet)
 - segan [(https://github.com/santi-pdp/segan)](https://github.com/santi-pdp/segan)
 - sednn [(https://github.com/yongxuUSTC/sednn)](https://github.com/yongxuUSTC/sednn)
@@ -158,6 +166,8 @@
 - nara_wpe [(https://github.com/fgnt/nara_wpe)](https://github.com/fgnt/nara_wpe)
 - setk [(https://github.com/funcwj/setk)](https://github.com/funcwj/setk)
 - single-channel-speech-enhancement [(https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)](https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)
+- onssen [(https://github.com/speechLabBcCuny/onssen)](https://github.com/speechLabBcCuny/onssen)
+- beamforming toolkit [(https://github.com/kkumatani/distant_speech_recognition)](https://github.com/kkumatani/distant_speech_recognition)
 
 ### Speech Emotion Recognition
 - speech-emotion-recognition-exercise [(https://github.com/YJango/speech-emotion-recognition-exercise)](https://github.com/YJango/speech-emotion-recognition-exercise)
@@ -171,3 +181,8 @@
 - 3D-convolutional-speaker-recognition [(https://github.com/astorfi/3D-convolutional-speaker-recognition)](https://github.com/astorfi/3D-convolutional-speaker-recognition)
 - x-vector-kaldi-tf [(https://github.com/hsn-zeinali/x-vector-kaldi-tf)](https://github.com/hsn-zeinali/x-vector-kaldi-tf)
 - ivector-xvector [(https://github.com/zeroQiaoba/ivector-xvector)](https://github.com/zeroQiaoba/ivector-xvector)
+
+
+### Audio Fingerprinting
+
+- dejavu [(https://github.com/worldveil/dejavu)](https://github.com/worldveil/dejavu)

@@ -27,6 +27,7 @@
 - Tensorflow-Cookbook [(https://github.com/taki0112/Tensorflow-Cookbook)](https://github.com/taki0112/Tensorflow-Cookbook)
 - Statistical Learning Method [https://github.com/wzyonggege/statistical-learning-method](https://github.com/wzyonggege/statistical-learning-method)
 - Statistical Learning Method [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
+- Elements of Statistical Learning [(https://github.com/szcf-weiya/ESL-CN)](https://github.com/szcf-weiya/ESL-CN)
 
 ### Natural Language Processing
 - nlp_tasks [(https://github.com/Kyubyong/nlp_tasks)](https://github.com/Kyubyong/nlp_tasks)
@@ -112,7 +113,6 @@
 - awesome-transfer-learning [(https://github.com/artix41/awesome-transfer-learning)](https://github.com/artix41/awesome-transfer-learning)
 - transferlearning [(https://github.com/jindongwang/transferlearning)](https://github.com/jindongwang/transferlearning)
 - transferlearning-tutorial [(https://github.com/jindongwang/transferlearning-tutorial)](https://github.com/jindongwang/transferlearning-tutorial)
-
 - GNNPapers [(https://github.com/thunlp/GNNPapers)](https://github.com/thunlp/GNNPapers)
 - papers-we-love [(https://github.com/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love)
 
@@ -157,7 +157,13 @@
 - acoustic_punctuation [(https://github.com/ondrejklejch/acoustic_punctuation)](https://github.com/ondrejklejch/acoustic_punctuation)
 - sequence-labeling-BiLSTM-CRF [(https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF)](https://github.com/scofield7419/sequence-labeling-BiLSTM-CRF)
 - neural_sequence_labeling [(https://github.com/IsaacChanghau/neural_sequence_labeling)](https://github.com/IsaacChanghau/neural_sequence_labeling)
-
+- NER_BiLSTM_CNN_CRF[(https://github.com/bamtercelboo/pytorch_NER_BiLSTM_CNN_CRF)](https://github.com/bamtercelboo/pytorch_NER_BiLSTM_CNN_CRF)
+- ChineseNER [(https://github.com/buppt/ChineseNER)](https://github.com/buppt/ChineseNER)
+- neural sequence labeling [(https://github.com/jiesutd/NCRFpp)](https://github.com/jiesutd/NCRFpp)
+- Label Attention Sequence labeling [(https://github.com/Nealcly/BiLSTM-LAN)](https://github.com/Nealcly/BiLSTM-LAN)
+- Bert-BiLSTM-CRF [(https://github.com/chenxiaoyouyou/Bert-BiLSTM-CRF-pytorch)](https://github.com/chenxiaoyouyou/Bert-BiLSTM-CRF-pytorch)
+- svm_struct_tagger [(https://github.com/zaycev/svm_struct_tagger)](https://github.com/zaycev/svm_struct_tagger)
+- BERT-BiLSTM-CRF-NER [(https://github.com/macanv/BERT-BiLSTM-CRF-NER)](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
 
 ### Grammar Error Correction
 - correction [(https://github.com/ccheng16/correction)](https://github.com/ccheng16/correction)
@@ -167,7 +173,6 @@
 - Autochecker4Chinese [(https://github.com/beyondacm/Autochecker4Chinese)](https://github.com/beyondacm/Autochecker4Chinese)
 - deepcorrect [(https://github.com/bedapudi6788/deepcorrect)](https://github.com/bedapudi6788/deepcorrect)
 - deep-text-corrector [(https://github.com/atpaino/deep-text-corrector)](https://github.com/atpaino/deep-text-corrector)
-
 - m2scorer [(https://github.com/nusnlp/m2scorer)](https://github.com/nusnlp/m2scorer)
 - NLPCC2018_GEC [(https://github.com/zhaoyyoo/NLPCC2018_GEC)](https://github.com/zhaoyyoo/NLPCC2018_GEC)
 - proofreadv1 [(https://github.com/apanly/proofreadv1)](https://github.com/apanly/proofreadv1)
@@ -175,6 +180,12 @@
 - NLPCC_2018_TASK2_GEC [(https://github.com/blcu-nlp/NLPCC_2018_TASK2_GEC)](https://github.com/blcu-nlp/NLPCC_2018_TASK2_GEC)
 - fairseq-gec [(https://github.com/zhawe01/fairseq-gec)](https://github.com/zhawe01/fairseq-gec)
 - mlconvgec2018 [(https://github.com/nusnlp/mlconvgec2018)](https://github.com/nusnlp/mlconvgec2018)
+- seq2seq GEC [(https://github.com/blcu-nlp/NLPCC_2018_TASK2_GEC)](https://github.com/blcu-nlp/NLPCC_2018_TASK2_GEC)
+- grammar error correction thesis [(https://github.com/swjtu-gec/zlyang-master-dissertation-code)](https://github.com/swjtu-gec/zlyang-master-dissertation-code)
+- Neural Model GEC [(https://github.com/grammatical/neural-naacl2018)](https://github.com/grammatical/neural-naacl2018)
+- Chinese Spell Correction [(https://github.com/liwh1227/spellcorrect)](https://github.com/liwh1227/spellcorrect)
+- Chinese Spell Correction  System [(https://github.com/colinsongf/SpellCorrection-System)](https://github.com/colinsongf/SpellCorrection-System)
+- chinese text correction [(https://github.com/iqiyi/FASPell)](https://github.com/iqiyi/FASPell)
 
 ### Inverse Text Normalization
 - chinesetextnorm [(https://github.com/troylee/chinesetextnorm)](https://github.com/troylee/chinesetextnorm)
