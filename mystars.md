@@ -1,5 +1,8 @@
 ## Awesome Repositories
 
+### Team
+- Open Source Team [(https://github.com/niezhiyang/open_source_team)](https://github.com/niezhiyang/open_source_team)
+
 ### Courses
 - stanford-cs-230-deep-learning [(https://github.com/afshinea/stanford-cs-230-deep-learning)](https://github.com/afshinea/stanford-cs-230-deep-learning)
 - cs230-code-examples [(https://github.com/cs230-stanford/cs230-code-examples)](https://github.com/cs230-stanford/cs230-code-examples)
@@ -164,6 +167,13 @@
 - Bert-BiLSTM-CRF [(https://github.com/chenxiaoyouyou/Bert-BiLSTM-CRF-pytorch)](https://github.com/chenxiaoyouyou/Bert-BiLSTM-CRF-pytorch)
 - svm_struct_tagger [(https://github.com/zaycev/svm_struct_tagger)](https://github.com/zaycev/svm_struct_tagger)
 - BERT-BiLSTM-CRF-NER [(https://github.com/macanv/BERT-BiLSTM-CRF-NER)](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
+- SLTK [(https://github.com/liu-nlper/SLTK)](https://github.com/liu-nlper/SLTK)
+- pytorch-bert-crf-ner [(https://github.com/eagle705/pytorch-bert-crf-ner)](https://github.com/eagle705/pytorch-bert-crf-ner)
+- Name-Entity-Recognition [(https://github.com/FuYanzhe2/Name-Entity-Recognition)](https://github.com/FuYanzhe2/Name-Entity-Recognition)
+- GNN NER [(https://github.com/RowitZou/LGN)](https://github.com/RowitZou/LGN)
+- Sequence Labeling [(https://github.com/Nealcly/BiLSTM-LAN)](https://github.com/Nealcly/BiLSTM-LAN)
+- **NCRFpp** [(https://github.com/jiesutd/NCRFpp)](https://github.com/jiesutd/NCRFpp)
+- LM-LSTM-CRF [(https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)
 
 ### Grammar Error Correction
 - correction [(https://github.com/ccheng16/correction)](https://github.com/ccheng16/correction)
@@ -186,6 +196,8 @@
 - Chinese Spell Correction [(https://github.com/liwh1227/spellcorrect)](https://github.com/liwh1227/spellcorrect)
 - Chinese Spell Correction  System [(https://github.com/colinsongf/SpellCorrection-System)](https://github.com/colinsongf/SpellCorrection-System)
 - chinese text correction [(https://github.com/iqiyi/FASPell)](https://github.com/iqiyi/FASPell)
+- Error Detection [(https://github.com/zedom1/Error-Detection)](https://github.com/zedom1/Error-Detection)
+- Spell Correct [(https://github.com/jbhoosreddy/spellcorrect)](https://github.com/jbhoosreddy/spellcorrect)
 
 ### Inverse Text Normalization
 - chinesetextnorm [(https://github.com/troylee/chinesetextnorm)](https://github.com/troylee/chinesetextnorm)
@@ -200,9 +212,15 @@
 - Text-Normalization-in-pyTorch [(https://github.com/312shan/Text-Normalization-in-pyTorch)](https://github.com/312shan/Text-Normalization-in-pyTorch)
 - text-normalization [(https://github.com/adrianjav/text-normalization)](https://github.com/adrianjav/text-normalization)
 - deep_disfluency [(https://github.com/clp-research/deep_disfluency)](https://github.com/clp-research/deep_disfluency)
-
+- text_norm [(https://github.com/caravanuden/text_norm)](https://github.com/caravanuden/text_norm)
 
 ### Knowledge Graph
 - Knowledge-Graph [(https://github.com/lihanghang/Knowledge-Graph)](https://github.com/lihanghang/Knowledge-Graph)
 - KnowledgeGraphData [(https://github.com/ownthink/KnowledgeGraphData)](https://github.com/ownthink/KnowledgeGraphData)
 - awesome-knowledge-graph [(https://github.com/husthuke/awesome-knowledge-graph)](https://github.com/husthuke/awesome-knowledge-graph)
+
+### C/C++实践
+https://github.com/prabhuomkar/pytorch-cpp
+https://github.com/applenob/Cpp_Primer_Practice
+https://github.com/lexdene/gcc_five_minute
+https://github.com/fffaraz/awesome-cpp

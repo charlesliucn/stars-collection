@@ -19,6 +19,7 @@
 ## Speech Recognition
 
 ### Toolkits
+#### Kaldi related
 - awesome-kaldi [(https://github.com/YoavRamon/awesome-kaldi)](https://github.com/YoavRamon/awesome-kaldi)
 - kaldi [(https://github.com/tramphero/kaldi)](https://github.com/tramphero/kaldi)
 - pykaldi [(https://github.com/pykaldi/pykaldi)](https://github.com/pykaldi/pykaldi)
@@ -38,7 +39,21 @@
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
 - wake-word detection [https://github.com/kaldi-asr/kaldi/pull/3467](https://github.com/kaldi-asr/kaldi/pull/3467)
 - CSLT-THU kaldi cases [(https://github.com/tzyll/kaldi)](https://github.com/tzyll/kaldi)
----
+- Kaldi Notes [(https://github.com/oxinabox/Kaldi-Notes)](https://github.com/oxinabox/Kaldi-Notes)
+- py-kaldi-asr [(https://github.com/gooofy/py-kaldi-asr)](https://github.com/gooofy/py-kaldi-asr)
+
+#### Hybrid
+- HTK [(https://github.com/open-speech/HTK)](https://github.com/open-speech/HTK)
+- julius [(https://github.com/julius-speech/julius)](https://github.com/julius-speech/julius)
+- Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
+- Alibaba-MIT-Speech [(https://github.com/alibaba/Alibaba-MIT-Speech)](https://github.com/alibaba/Alibaba-MIT-Speech)
+- asr_preprocessing [(https://github.com/hirofumi0810/asr_preprocessing)](https://github.com/hirofumi0810/asr_preprocessing)
+- ASRT_SpeechRecognition [(https://github.com/nl8590687/ASRT_SpeechRecognition)](https://github.com/nl8590687/ASRT_SpeechRecognition)
+- Automatic_Speech_Recognition [(https://github.com/zzw922cn/Automatic_Speech_Recognition)](https://github.com/zzw922cn/Automatic_Speech_Recognition)
+- speech_recognition [(https://github.com/Uberi/speech_recognition)](https://github.com/Uberi/speech_recognition)
+- speech-language-processing [(https://github.com/edobashira/speech-language-processing)](https://github.com/edobashira/speech-language-processing)
+
+#### End-to-End
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
 - Synthetic-Boosted-DeepSpeech [(https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)](https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)
@@ -47,25 +62,16 @@
 - espnet-semi-supervised [(https://github.com/ShigekiKarita/espnet-semi-supervised)](https://github.com/ShigekiKarita/espnet-semi-supervised)
 - espnet-tutorial [(https://github.com/espnet/interspeech2019-tutorial)](https://github.com/espnet/interspeech2019-tutorial)
 - espresso [(https://github.com/freewym/espresso)](https://github.com/freewym/espresso)
-- HTK [(https://github.com/open-speech/HTK)](https://github.com/open-speech/HTK)
-- julius [(https://github.com/julius-speech/julius)](https://github.com/julius-speech/julius)
 - wav2letter [(https://github.com/facebookresearch/wav2letter)](https://github.com/facebookresearch/wav2letter)
 - eesen [(https://github.com/srvk/eesen)](https://github.com/srvk/eesen)
 - delta [(https://github.com/didi/delta)](https://github.com/didi/delta)
----
-- Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
 - Speech-Transformer [(https://github.com/kaituoxu/Speech-Transformer)](https://github.com/kaituoxu/Speech-Transformer)
 - Speech-Tranformer-Pytorch [(https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch)](https://github.com/ZhengkunTian/Speech-Tranformer-Pytorch)
-- Alibaba-MIT-Speech [(https://github.com/alibaba/Alibaba-MIT-Speech)](https://github.com/alibaba/Alibaba-MIT-Speech)
 - tacotron_asr [(https://github.com/Kyubyong/tacotron_asr)](https://github.com/Kyubyong/tacotron_asr)
-- asr_preprocessing [(https://github.com/hirofumi0810/asr_preprocessing)](https://github.com/hirofumi0810/asr_preprocessing)
-- ASRT_SpeechRecognition [(https://github.com/nl8590687/ASRT_SpeechRecognition)](https://github.com/nl8590687/ASRT_SpeechRecognition)
-- Automatic_Speech_Recognition [(https://github.com/zzw922cn/Automatic_Speech_Recognition)](https://github.com/zzw922cn/Automatic_Speech_Recognition)
-- speech_recognition [(https://github.com/Uberi/speech_recognition)](https://github.com/Uberi/speech_recognition)
-- speech-language-processing [(https://github.com/edobashira/speech-language-processing)](https://github.com/edobashira/speech-language-processing)
 - attention-lvcsr [(https://github.com/rizar/attention-lvcsr)](https://github.com/rizar/attention-lvcsr)
 - end2end-asr-pytorch [(https://github.com/gentaiscool/end2end-asr-pytorch)](https://github.com/gentaiscool/end2end-asr-pytorch)
 - E2E-ASR [(https://github.com/HawkAaron/E2E-ASR)](https://github.com/HawkAaron/E2E-ASR)
+- End-to-end-ASR-Pytorch [(https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
 - tensorflow_end2end_speech_recognition [(https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)
 - ASR_Syllable [(https://github.com/zw76859420/ASR_Syllable)](https://github.com/zw76859420/ASR_Syllable)
 - speech-to-text [(https://github.com/yh1008/speech-to-text)](https://github.com/yh1008/speech-to-text)
@@ -142,6 +148,9 @@
 - MelGAN [(https://github.com/descriptinc/melgan-neurips)](https://github.com/descriptinc/melgan-neurips)
 - GAN-TTS [(https://github.com/yanggeng1995/GAN-TTS)](https://github.com/yanggeng1995/GAN-TTS)
 - speech-to-text-benchmark [(https://github.com/Picovoice/speech-to-text-benchmark)](https://github.com/Picovoice/speech-to-text-benchmark)
+- Transformer-TTS [(https://github.com/soobinseo/Transformer-TTS)](https://github.com/soobinseo/Transformer-TTS)
+- LPCNet [(https://github.com/mozilla/LPCNet)](https://github.com/mozilla/LPCNet)
+- Voice Cloning [(https://github.com/CorentinJ/Real-Time-Voice-Cloning)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 ### Audio Dataset
 - datasets-CMU_Wilderness [(https://github.com/festvox/datasets-CMU_Wilderness)](https://github.com/festvox/datasets-CMU_Wilderness)
@@ -156,6 +165,7 @@
 - DALI [(https://github.com/gabolsgabs/DALI)](https://github.com/gabolsgabs/DALI)
 - RadioTalk [(https://github.com/social-machines/RadioTalk)](https://github.com/social-machines/RadioTalk)
 - ASR Audio data links [(https://github.com/robmsmt/ASR_Audio_Data_Links)](https://github.com/robmsmt/ASR_Audio_Data_Links)
+- Sound Anomaly Detection [(https://github.com/YumaKoizumi/ToyADMOS-dataset)](https://github.com/YumaKoizumi/ToyADMOS-dataset)
 
 ### Speech Denoising/Enhancement
 - speech-denoising-wavenet [(https://github.com/drethage/speech-denoising-wavenet)](https://github.com/drethage/speech-denoising-wavenet)
@@ -168,6 +178,8 @@
 - single-channel-speech-enhancement [(https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)](https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)
 - onssen [(https://github.com/speechLabBcCuny/onssen)](https://github.com/speechLabBcCuny/onssen)
 - beamforming toolkit [(https://github.com/kkumatani/distant_speech_recognition)](https://github.com/kkumatani/distant_speech_recognition)
+- rnnoise [(https://github.com/xiph/rnnoise)](https://github.com/xiph/rnnoise)
+- TensorFlow-speech-enhancement-Chinese [(https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
 
 ### Speech Emotion Recognition
 - speech-emotion-recognition-exercise [(https://github.com/YJango/speech-emotion-recognition-exercise)](https://github.com/YJango/speech-emotion-recognition-exercise)
