@@ -1,5 +1,4 @@
 # My Starred Repositories [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-[![HitCount](http://hits.dwyl.io/charlesliucn/LanMIT.svg)](http://hits.dwyl.io/charlesliucn/stars-collection)
 This repository contains my starred repositories grouped into different categories.
 
 **Last Update:** Feb. 18th, 2019
