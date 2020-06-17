@@ -16,25 +16,51 @@
 - CS224N-DeepNLP-models-Pytorch [(https://github.com/DSKSD/DeepNLP-models-Pytorch)](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 - USTC-CS-Courses-Resource [(https://github.com/mbinary/USTC-CS-Courses-Resource)](https://github.com/mbinary/USTC-CS-Courses-Resource)
 - CS291K [(https://github.com/pmsosa/CS291K)](https://github.com/pmsosa/CS291K)
+- Machine-Learning-Session [(https://github.com/shuhuai007/Machine-Learning-Session)](https://github.com/shuhuai007/Machine-Learning-Session)
+- Machine Learning Derivation [(https://github.com/ws13685555932/machine_learning_derivation)](https://github.com/ws13685555932/machine_learning_derivation)
+- awesome-courses [(https://github.com/prakhar1989/awesome-courses)](https://github.com/prakhar1989/awesome-courses)
 
 ### Books
+- Lihang ML [(https://github.com/SmirkCao/Lihang)](https://github.com/SmirkCao/Lihang)
+- CS-Book [(https://github.com/iamshuaidi/CS-Book)](https://github.com/iamshuaidi/CS-Book)
 - nn4nlp-code [(https://github.com/Maysir/nn4nlp-code)](https://github.com/Maysir/nn4nlp-code)
 - algorithms [(https://github.com/jeffgerickson/algorithms)](https://github.com/jeffgerickson/algorithms)
 - CLRS [(https://github.com/gzc/CLRS)](https://github.com/gzc/CLRS)
 - PRML-Solution-Manual [(https://github.com/GoldenCheese/PRML-Solution-Manual)](https://github.com/GoldenCheese/PRML-Solution-Manual)
+- PRML Python [(https://github.com/ctgk/PRML)](https://github.com/ctgk/PRML)
 - machine-learning-yearning-cn [(https://github.com/AcceptedDoge/machine-learning-yearning-cn)](https://github.com/AcceptedDoge/machine-learning-yearning-cn)
 - Machine-Learning-in-Action-Python3 [(https://github.com/wzy6642/Machine-Learning-in-Action-Python3)](https://github.com/wzy6642/Machine-Learning-in-Action-Python3)
 - code-of-learn-deep-learning-with-pytorch [(https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)](https://github.com/L1aoXingyu/code-of-learn-deep-learning-with-pytorch)
+- CN Awesome-pytorch-list [(https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)
+- EN Awesome-pytorch-list [(https://github.com/bharathgs/Awesome-pytorch-list)](https://github.com/bharathgs/Awesome-pytorch-list)
 - TensorFlow-cn [(https://github.com/snowkylin/TensorFlow-cn)](https://github.com/snowkylin/TensorFlow-cn)
 - tensorflow-internals [(https://github.com/horance-liu/tensorflow-internals)](https://github.com/horance-liu/tensorflow-internals)
 - Tensorflow-Cookbook [(https://github.com/taki0112/Tensorflow-Cookbook)](https://github.com/taki0112/Tensorflow-Cookbook)
 - Statistical Learning Method [https://github.com/wzyonggege/statistical-learning-method](https://github.com/wzyonggege/statistical-learning-method)
 - Statistical Learning Method [https://github.com/fengdu78/lihang-code](https://github.com/fengdu78/lihang-code)
 - Elements of Statistical Learning [(https://github.com/szcf-weiya/ESL-CN)](https://github.com/szcf-weiya/ESL-CN)
+- Machine Translation: Statistical Modeling and Deep Learning Methods [(https://github.com/NiuTrans/MTBook)](https://github.com/NiuTrans/MTBook)
+
+### Papers
+- Paper-Code-Interpretation [(https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation)](https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation)
+- GNNPapers [(https://github.com/thunlp/GNNPapers)](https://github.com/thunlp/GNNPapers)
+- papers-we-love [(https://github.com/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love)
+
+### Mathematics
+- Disout [(https://github.com/huawei-noah/Disout)](https://github.com/huawei-noah/Disout)
+- GFocal [(https://github.com/implus/GFocal)](https://github.com/implus/GFocal)
+- Pytorch-Optimizer [(https://github.com/jettify/pytorch-optimizer)](https://github.com/jettify/pytorch-optimizer)
+- Filter Response Norm [(https://github.com/gupta-abhay/pytorch-frn)](https://github.com/gupta-abhay/pytorch-frn)
 
 ### Natural Language Processing
+- deep-nlp-reading-list [(https://github.com/jshin49/deep-nlp-reading-list)](https://github.com/jshin49/deep-nlp-reading-list)
+- 100-nlp-papers [(https://github.com/mhagiwara/100-nlp-papers)](https://github.com/mhagiwara/100-nlp-papers)
 - nlp_tasks [(https://github.com/Kyubyong/nlp_tasks)](https://github.com/Kyubyong/nlp_tasks)
+- nlp-recipes [(https://github.com/microsoft/nlp-recipes)](https://github.com/microsoft/nlp-recipes)
+- nlp-journey [(https://github.com/msgi/nlp-journey)](https://github.com/msgi/nlp-journey)
 - nlp-tutorial [(https://github.com/graykode/nlp-tutorial)](https://github.com/graykode/nlp-tutorial)
+- NLP-Pandect [(https://github.com/ivan-bilan/The-NLP-Pandect)](https://github.com/ivan-bilan/The-NLP-Pandect)
+- nlp_highlights [(https://github.com/omarsar/nlp_highlights)](https://github.com/omarsar/nlp_highlights)
 - Awesome-Chinese-NLP [(https://github.com/crownpku/Awesome-Chinese-NLP)](https://github.com/crownpku/Awesome-Chinese-NLP)
 - nlstm [(https://github.com/hannw/nlstm)](https://github.com/hannw/nlstm)
 - bert [(https://github.com/google-research/bert)](https://github.com/google-research/bert)
@@ -43,12 +69,17 @@
 - Deep-Learning-Papers-Reading-Roadmap [(https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - awesome-nlp [(https://github.com/keon/awesome-nlp)](https://github.com/keon/awesome-nlp)
 - nlp-roadmap [(https://github.com/graykode/nlp-roadmap)](https://github.com/graykode/nlp-roadmap)
+- ACL-2020-Papers [(https://github.com/roomylee/ACL-2020-Papers)](https://github.com/roomylee/ACL-2020-Papers)
+- LTP [(https://github.com/HIT-SCIR/ltp)](https://github.com/HIT-SCIR/ltp)
 
 #### Pretrained Language Models
 - Chinese-PreTrained-XLNet [(https://github.com/ymcui/Chinese-PreTrained-XLNet)](https://github.com/ymcui/Chinese-PreTrained-XLNet)
 - BERT-related-papers [(https://github.com/tomohideshibata/BERT-related-papers)](https://github.com/tomohideshibata/BERT-related-papers)
 - albert_zh [(https://github.com/brightmart/albert_zh)](https://github.com/brightmart/albert_zh)
 - PLMpapers [(https://github.com/thunlp/PLMpapers)](https://github.com/thunlp/PLMpapers)
+- LAMA [(https://github.com/facebookresearch/LAMA)](https://github.com/facebookresearch/LAMA)
+- transformers [(https://github.com/huggingface/transformers)](https://github.com/huggingface/transformers)
+- KGLM [(https://github.com/rloganiv/kglm-model)](https://github.com/rloganiv/kglm-model)
 
 #### Toolkits
 - allennlp [(https://github.com/allenai/allennlp)](https://github.com/allenai/allennlp)
@@ -71,6 +102,7 @@
 - toutiao-text-classfication-dataset [(https://github.com/fatecbf/toutiao-text-classfication-dataset)](https://github.com/fatecbf/toutiao-text-classfication-dataset)
 - ChineseNLPCorpus [(https://github.com/InsaneLife/ChineseNLPCorpus)](https://github.com/InsaneLife/ChineseNLPCorpus)
 - chineseGLUE [(https://github.com/chineseGLUE/chineseGLUE)](https://github.com/chineseGLUE/chineseGLUE)
+- chinese-xinhua [(https://github.com/pwxcoo/chinese-xinhua)](https://github.com/pwxcoo/chinese-xinhua)
 
 #### text classification
 - textClassifier [(https://github.com/richliao/textClassifier)](https://github.com/richliao/textClassifier)
@@ -78,6 +110,8 @@
 - text_classification [(https://github.com/brightmart/text_classification)](https://github.com/brightmart/text_classification)
 - NLP-progress [(https://github.com/sebastianruder/NLP-progress)](https://github.com/sebastianruder/NLP-progress)
 - Awesome-Chinese-NLP [(https://github.com/crownpku/Awesome-Chinese-NLP)](https://github.com/crownpku/Awesome-Chinese-NLP)
+- lstm-siamese-text-similarity [(https://github.com/amansrivastava17/lstm-siamese-text-similarity)](https://github.com/amansrivastava17/lstm-siamese-text-similarity)
+- capsule_text_classification [(https://github.com/andyweizhao/capsule_text_classification)](https://github.com/andyweizhao/capsule_text_classification)
 
 ### Data Science
 - PythonDataScienceHandbook [(https://github.com/jakevdp/PythonDataScienceHandbook)](https://github.com/jakevdp/PythonDataScienceHandbook)
@@ -93,6 +127,7 @@
 ### Machine/Deep Learning
 - ML-From-Scratch [(https://github.com/eriklindernoren/ML-From-Scratch)](https://github.com/eriklindernoren/ML-From-Scratch)
 - awesome-machine-learning-on-source-code [(https://github.com/src-d/awesome-machine-learning-on-source-code)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+- Machine-Learning-Tutorials [(https://github.com/ujjwalkarn/Machine-Learning-Tutorials)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - fastai [(https://github.com/fastai/fastai)](https://github.com/fastai/fastai)
 - awesome-machine-learning [(https://github.com/josephmisiti/awesome-machine-learning)](https://github.com/josephmisiti/awesome-machine-learning)
 - state-of-the-art-result-for-machine-learning-problems [(https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
@@ -106,6 +141,7 @@
 - d2l-en [(https://github.com/d2l-ai/d2l-en)](https://github.com/d2l-ai/d2l-en)
 - d2l-zh [(https://github.com/d2l-ai/d2l-zh)](https://github.com/d2l-ai/d2l-zh)
 - a_journey_into_math_of_ml [(https://github.com/aespresso/a_journey_into_math_of_ml)](https://github.com/aespresso/a_journey_into_math_of_ml)
+- awesome-deep-learning [(https://github.com/ChristosChristofidis/awesome-deep-learning)](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 ### Reinforcement Learning
 - awesome-reinforcement-learning-zh [(https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh)
@@ -116,15 +152,16 @@
 - awesome-transfer-learning [(https://github.com/artix41/awesome-transfer-learning)](https://github.com/artix41/awesome-transfer-learning)
 - transferlearning [(https://github.com/jindongwang/transferlearning)](https://github.com/jindongwang/transferlearning)
 - transferlearning-tutorial [(https://github.com/jindongwang/transferlearning-tutorial)](https://github.com/jindongwang/transferlearning-tutorial)
-- GNNPapers [(https://github.com/thunlp/GNNPapers)](https://github.com/thunlp/GNNPapers)
-- papers-we-love [(https://github.com/papers-we-love/papers-we-love)](https://github.com/papers-we-love/papers-we-love)
-
+- hands-on-transfer-learning-with-python [(https://github.com/dipanjanS/hands-on-transfer-learning-with-python)](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
 
 ### Finding Jobs
+- fucking-algorithm [(https://github.com/labuladong/fucking-algorithm)](https://github.com/labuladong/fucking-algorithm)
 - DeepLearning-500-questions [(https://github.com/scutan90/DeepLearning-500-questions)](https://github.com/scutan90/DeepLearning-500-questions)
+- Deep-Learning-Interview-Book [(https://github.com/amusi/Deep-Learning-Interview-Book)](https://github.com/amusi/Deep-Learning-Interview-Book)
 - programmer-job-blacklist [(https://github.com/shengxinjing/programmer-job-blacklist)](https://github.com/shengxinjing/programmer-job-blacklist)
 - coding-interview-university [(https://github.com/jwasham/coding-interview-university)](https://github.com/jwasham/coding-interview-university)
 - awesome-competitive-programming [(https://github.com/lnishan/awesome-competitive-programming)](https://github.com/lnishan/awesome-competitive-programming)
+- Awesome-algorithm-interview [(https://github.com/lcylmhlcy/Awesome-algorithm-interview)](https://github.com/lcylmhlcy/Awesome-algorithm-interview)
 - CS-Notes [(https://github.com/CyC2018/CS-Notes)](https://github.com/CyC2018/CS-Notes)
 - interview [(https://github.com/HIT-Alibaba/interview)](https://github.com/HIT-Alibaba/interview)
 - wiki [(https://github.com/mission-peace/interview/wiki)](https://github.com/mission-peace/interview/wiki)
@@ -137,10 +174,27 @@
 - ImageProcessing100Wen [(https://github.com/gzr2017/ImageProcessing100Wen)](https://github.com/gzr2017/ImageProcessing100Wen)
 - NLPer-Interview [(https://github.com/songyingxin/NLPer-Interview)](https://github.com/songyingxin/NLPer-Interview)
 - chinese-programmer-wrong-pronunciation [(https://github.com/shimohq/chinese-programmer-wrong-pronunciation)](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)
+- Just-Code [(https://github.com/YaxeZhang/Just-Code)](https://github.com/YaxeZhang/Just-Code)
+- DLInterview [(https://github.com/ShanghaiTechAIClub/DLInterview)](https://github.com/ShanghaiTechAIClub/DLInterview)
+- ml-interview [(https://github.com/ShuaiW/ml-interview)](https://github.com/ShuaiW/ml-interview)
+- interview [(https://github.com/andreis/interview)](https://github.com/andreis/interview)
+- Interview [(https://github.com/apachecn/Interview)](https://github.com/apachecn/Interview)
+- CodingInterviews [(https://github.com/gatieme/CodingInterviews)](https://github.com/gatieme/CodingInterviews)
+- ChineseCodingInterviewAppendix [(https://github.com/zhedahht/ChineseCodingInterviewAppendix)](https://github.com/zhedahht/ChineseCodingInterviewAppendix)
+- algo [(https://github.com/wangzheng0822/algo)](https://github.com/wangzheng0822/algo)
+- leetcode [(https://github.com/haoel/leetcode)](https://github.com/haoel/leetcode)
+- leetcode [(https://github.com/soulmachine/leetcode)](https://github.com/soulmachine/leetcode)
+- leetcode [(https://github.com/azl397985856/leetcode)](https://github.com/azl397985856/leetcode)
+- Python Algorithms [(https://github.com/TheAlgorithms/Python)](https://github.com/TheAlgorithms/Python)
+- awesome-interview-questions [(https://github.com/MaximAbramchuck/awesome-interview-questions)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- LeetCodeAnimation [(https://github.com/MisterBooo/LeetCodeAnimation)](https://github.com/MisterBooo/LeetCodeAnimation)
+- C++ Algorithms [(https://github.com/huaxz1986/cplusplus-Implementation_Of_Introduction_to_Algorithms)](https://github.com/huaxz1986/cplusplus-Implementation_Of_Introduction_to_Algorithms)
+
 
 ## Master Thesis
 
 ### Punctuation Restoration
+- punctuation-prediction [(https://github.com/cadia-lvl/punctuation-prediction)](https://github.com/cadia-lvl/punctuation-prediction)
 - punctuation-restoration-pytorch [(https://github.com/yuboona/punctuation-restoration-pytorch)](https://github.com/yuboona/punctuation-restoration-pytorch)
 - crfpp [(https://github.com/taku910/crfpp)](https://github.com/taku910/crfpp)
 - LSTM-for-Chinese-Punctuation-Restoration [(https://github.com/AlvinIsonomia/LSTM-for-Chinese-Punctuation-Restoration)](https://github.com/AlvinIsonomia/LSTM-for-Chinese-Punctuation-Restoration)

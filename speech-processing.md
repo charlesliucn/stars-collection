@@ -1,8 +1,10 @@
 # Speech Processing Repos
 
+## Overall 
 - wer_are_we [(https://github.com/syhw/wer_are_we)](https://github.com/syhw/wer_are_we)
 - awesome-speech [(https://github.com/mxer/awesome-speech)](https://github.com/mxer/awesome-speech)
 - awesome-speech-recognition-speech-synthesis-papers [(https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers)
+- code-switching-papers [(https://github.com/gentaiscool/code-switching-papers)](https://github.com/gentaiscool/code-switching-papers)
 - asr-study [(https://github.com/igormq/asr-study)](https://github.com/igormq/asr-study)
 - ASR_Theory [(https://github.com/zw76859420/ASR_Theory)](https://github.com/zw76859420/ASR_Theory)
 
@@ -15,13 +17,17 @@
 - mir_eval [(https://github.com/craffel/mir_eval)](https://github.com/craffel/mir_eval)
 - muda [(https://github.com/bmcfee/muda)](https://github.com/bmcfee/muda)
 - praatIO [(https://github.com/timmahrt/praatIO)](https://github.com/timmahrt/praatIO)
+- julius segmentation-kit [(https://github.com/julius-speech/segmentation-kit)](https://github.com/julius-speech/segmentation-kit)
+- SpeechVGG [(https://github.com/bepierre/SpeechVGG)](https://github.com/bepierre/SpeechVGG)
+- awesome-python-scientific-audio) [(https://github.com/faroit/awesome-python-scientific-audio)](https://github.com/faroit/awesome-python-scientific-audio)
+- pyroomacoustics [(https://github.com/LCAV/pyroomacoustics)](https://github.com/LCAV/pyroomacoustics)
 
 ## Speech Recognition
 
-### Toolkits
-#### Kaldi related
+### Kaldi related
 - awesome-kaldi [(https://github.com/YoavRamon/awesome-kaldi)](https://github.com/YoavRamon/awesome-kaldi)
 - kaldi [(https://github.com/tramphero/kaldi)](https://github.com/tramphero/kaldi)
+- kaldi [(https://github.com/pegahgh/kaldi)](https://github.com/pegahgh/kaldi)
 - pykaldi [(https://github.com/pykaldi/pykaldi)](https://github.com/pykaldi/pykaldi)
 - pykaldi2 [(https://github.com/jzlianglu/pykaldi2)](https://github.com/jzlianglu/pykaldi2)
 - py-kaldi-asr [(https://github.com/gooofy/py-kaldi-asr)](https://github.com/gooofy/py-kaldi-asr)
@@ -30,19 +36,25 @@
 - keras-kaldi [(https://github.com/dspavankumar/keras-kaldi)](https://github.com/dspavankumar/keras-kaldi)
 - kaldi-ctc [(https://github.com/lingochamp/kaldi-ctc)](https://github.com/lingochamp/kaldi-ctc)
 - kaldi-onnx [(https://github.com/XiaoMi/kaldi-onnx)](https://github.com/XiaoMi/kaldi-onnx)
+- kaldi-aslp [(https://github.com/robin1001/kaldi-aslp)](https://github.com/robin1001/kaldi-aslp)
+- kaldi-active-grammar [(https://github.com/daanzu/kaldi-active-grammar)](https://github.com/daanzu/kaldi-active-grammar)
 - kaldi2htk [(https://github.com/dansoutner/kaldi2htk)](https://github.com/dansoutner/kaldi2htk)
 - multi-task-kaldi [(https://github.com/JRMeyer/multi-task-kaldi)](https://github.com/JRMeyer/multi-task-kaldi)
 - kaldi-gstreamer-server [(https://github.com/alumae/kaldi-gstreamer-server)](https://github.com/alumae/kaldi-gstreamer-server)
 - kaldi-android-demo [https://github.com/alphacep/kaldi-android-demo](https://github.com/alphacep/kaldi-android-demo)
+- vosk-android-demo [https://github.com/alphacep/vosk-android-demo](https://github.com/alphacep/vosk-android-demo)
+- gRPC-kaldi-server [https://github.com/Vernacular-ai/kaldi-serve](https://github.com/Vernacular-ai/kaldi-serve)
 - kaldi-io-for-python [(https://github.com/vesis84/kaldi-io-for-python)](https://github.com/vesis84/kaldi-io-for-python)
 - kaldiio [(https://github.com/nttcslab-sp/kaldiio)](https://github.com/nttcslab-sp/kaldiio)
 - kaldi-websocket-python [(https://github.com/alphacep/kaldi-websocket-python)](https://github.com/alphacep/kaldi-websocket-python)
+- kaldi-offline-transcriber [(https://github.com/alumae/kaldi-offline-transcriber)](https://github.com/alumae/kaldi-offline-transcriber)
 - wake-word detection [https://github.com/kaldi-asr/kaldi/pull/3467](https://github.com/kaldi-asr/kaldi/pull/3467)
 - CSLT-THU kaldi cases [(https://github.com/tzyll/kaldi)](https://github.com/tzyll/kaldi)
 - Kaldi Notes [(https://github.com/oxinabox/Kaldi-Notes)](https://github.com/oxinabox/Kaldi-Notes)
 - py-kaldi-asr [(https://github.com/gooofy/py-kaldi-asr)](https://github.com/gooofy/py-kaldi-asr)
+- CAT [(https://github.com/thu-spmi/CAT)](https://github.com/thu-spmi/CAT)
 
-#### Hybrid
+### Hybrid Toolkits
 - HTK [(https://github.com/open-speech/HTK)](https://github.com/open-speech/HTK)
 - julius [(https://github.com/julius-speech/julius)](https://github.com/julius-speech/julius)
 - Lyric_ASR [(https://github.com/jackyyy0228/Lyric_ASR)](https://github.com/jackyyy0228/Lyric_ASR)
@@ -52,9 +64,15 @@
 - Automatic_Speech_Recognition [(https://github.com/zzw922cn/Automatic_Speech_Recognition)](https://github.com/zzw922cn/Automatic_Speech_Recognition)
 - speech_recognition [(https://github.com/Uberi/speech_recognition)](https://github.com/Uberi/speech_recognition)
 - speech-language-processing [(https://github.com/edobashira/speech-language-processing)](https://github.com/edobashira/speech-language-processing)
+- NN acoustic modeling (chainer) [(https://github.com/OrcusCZ/NNAcousticModeling)](https://github.com/OrcusCZ/NNAcousticModeling)
+- leopard [(https://github.com/Picovoice/leopard)](https://github.com/Picovoice/leopard)
+- TDNN [(https://github.com/cvqluu/TDNN)](https://github.com/cvqluu/TDNN)
+- Factorized-TDNN[(https://github.com/cvqluu/Factorized-TDNN)](https://github.com/cvqluu/Factorized-TDNN)
+- pychain [(https://github.com/YiwenShaoStephen/pychain)](https://github.com/YiwenShaoStephen/pychain)
 
-#### End-to-End
+### End-to-End ASR
 - DeepSpeech [(https://github.com/mozilla/DeepSpeech)](https://github.com/mozilla/DeepSpeech)
+- deepspeech [(https://github.com/MyrtleSoftware/deepspeech)](https://github.com/MyrtleSoftware/deepspeech)
 - deepspeech.pytorch [(https://github.com/SeanNaren/deepspeech.pytorch)](https://github.com/SeanNaren/deepspeech.pytorch)
 - Synthetic-Boosted-DeepSpeech [(https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)](https://github.com/rolczynski/Synthetic-Boosted-DeepSpeech)
 - espnet [(https://github.com/espnet/espnet)](https://github.com/espnet/espnet)
@@ -75,6 +93,7 @@
 - tensorflow_end2end_speech_recognition [(https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition)
 - ASR_Syllable [(https://github.com/zw76859420/ASR_Syllable)](https://github.com/zw76859420/ASR_Syllable)
 - speech-to-text [(https://github.com/yh1008/speech-to-text)](https://github.com/yh1008/speech-to-text)
+- cheetah [(https://github.com/Picovoice/cheetah)](https://github.com/Picovoice/cheetah)
 - speech [(https://github.com/awni/speech)](https://github.com/awni/speech)
 - live-transcribe-speech-engine [(https://github.com/google/live-transcribe-speech-engine)](https://github.com/google/live-transcribe-speech-engine)
 - Mandarin ASR [(https://github.com/libai3/masr)](https://github.com/libai3/masr)
@@ -86,28 +105,41 @@
 - Sigmedia-AVSR [(https://github.com/georgesterpu/Sigmedia-AVSR)](https://github.com/georgesterpu/Sigmedia-AVSR)
 - MAX-Speech-to-Text-Converter [(https://github.com/IBM/MAX-Speech-to-Text-Converter)](https://github.com/IBM/MAX-Speech-to-Text-Converter)
 - asr-evaluation [(https://github.com/belambert/asr-evaluation)](https://github.com/belambert/asr-evaluation)
-- pansori [(https://github.com/yc9701/pansori)](https://github.com/yc9701/pansori)
+- Listen-Attend-Spell [(https://github.com/kaituoxu/Listen-Attend-Spell)](https://github.com/kaituoxu/Listen-Attend-Spell)
+- Speech-Transformer-plus-2DAttention [Speech-Transformer-plus-2DAttention](https://github.com/xingchensong/Speech-Transformer-plus-2DAttention)
+- OpenTransformer [(https://github.com/ZhengkunTian/OpenTransformer)](https://github.com/ZhengkunTian/OpenTransformer)
+- StreamingTransformer [(https://github.com/cywang97/StreamingTransformer)](https://github.com/cywang97/StreamingTransformer)
+- interactive_e2e_speech_recognition [(https://github.com/naxingyu/interactive_e2e_speech_recognition)](https://github.com/naxingyu/interactive_e2e_speech_recognition)
+- streaming-attention [(https://github.com/HaoranMiao/streaming-attention)](https://github.com/HaoranMiao/streaming-attention)
+- lingvo [(https://github.com/tensorflow/lingvo)](https://github.com/tensorflow/lingvo)
+- fairseq [(https://github.com/pytorch/fairseq)](https://github.com/pytorch/fairseq)
+- rnn-transducer [(https://github.com/ZhengkunTian/rnn-transducer)](https://github.com/ZhengkunTian/rnn-transducer)
+- rnnt-speech-recognition [(https://github.com/noahchalifour/rnnt-speech-recognition)](https://github.com/noahchalifour/rnnt-speech-recognition)
+- warp-transducer [(https://github.com/HawkAaron/warp-transducer)](https://github.com/HawkAaron/warp-transducer)
+- Didi athena [(https://github.com/didi/athena)](https://github.com/didi/athena)
+- end-to-end-SLU [(https://github.com/lorenlugosch/end-to-end-SLU)](https://github.com/lorenlugosch/end-to-end-SLU)
 
 ### Pronunciation Lexicon
 - DaCiDian [(https://github.com/aishell-foundation/DaCiDian)](https://github.com/aishell-foundation/DaCiDian)
 - THUOCL [(https://github.com/thunlp/THUOCL)](https://github.com/thunlp/THUOCL)
 - cmu-pronouncing-dictionary [(https://github.com/words/cmu-pronouncing-dictionary)](https://github.com/words/cmu-pronouncing-dictionary)
-
-### G2P
+- BigCiDian [(https://github.com/speechio/BigCiDian)](https://github.com/speechio/BigCiDian)
 - g2p [(https://github.com/Kyubyong/g2p)](https://github.com/Kyubyong/g2p)
 - g2p-seq2seq [(https://github.com/cmusphinx/g2p-seq2seq)](https://github.com/cmusphinx/g2p-seq2seq)
 - Phonetisaurus [(https://github.com/AdolfVonKleist/Phonetisaurus)](https://github.com/AdolfVonKleist/Phonetisaurus)
 - g2pC [(https://github.com/Kyubyong/g2pC)](https://github.com/Kyubyong/g2pC)
 - sequitur-g2p [(https://github.com/sequitur-g2p/sequitur-g2p)](https://github.com/sequitur-g2p/sequitur-g2p)
-
-### Acoustic Modeling (specifically)
-- NN acoustic modeling (chainer) [(https://github.com/OrcusCZ/NNAcousticModeling)](https://github.com/OrcusCZ/NNAcousticModeling)
+- Mandarin g2p [(https://github.com/kakaobrain/g2pM)](https://github.com/kakaobrain/g2pM)
+- phonemizer [(https://github.com/bootphon/phonemizer)](https://github.com/bootphon/phonemizer)
 
 ### Language Modeling
 - pocolm [(https://github.com/danpovey/pocolm)](https://github.com/danpovey/pocolm)
 - kenlm [(https://github.com/kpu/kenlm)](https://github.com/kpu/kenlm)
 - irstlm [(https://github.com/irstlm-team/irstlm)](https://github.com/irstlm-team/irstlm)
 - faster-rnnlm [(https://github.com/yandex/faster-rnnlm)](https://github.com/yandex/faster-rnnlm)
+- RNNLM [(https://github.com/Sundy1219/RNNLM)](https://github.com/Sundy1219/RNNLM)
+- returnn [(https://github.com/rwth-i6/returnn)](https://github.com/rwth-i6/returnn)
+- returnn-experiments [(https://github.com/rwth-i6/returnn-experiments)](https://github.com/rwth-i6/returnn-experiments)
 
 ### Decoders
 - kaldi-decoders [(https://github.com/jpuigcerver/kaldi-decoders)](https://github.com/jpuigcerver/kaldi-decoders)
@@ -115,9 +147,12 @@
 - rnnlm2wfst [(https://github.com/glecorve/rnnlm2wfst)](https://github.com/glecorve/rnnlm2wfst)
 - kaldi Lookahead Decoding [https://github.com/kaldi-asr/kaldi/pull/3616](https://github.com/kaldi-asr/kaldi/pull/3616)
 - Incremental Lattice Determinization [https://github.com/kaldi-asr/kaldi/pull/3317](https://github.com/kaldi-asr/kaldi/pull/3317)
+- xdecoders [(https://github.com/robin1001/xdecoder)](https://github.com/robin1001/xdecoder)
+- PyTorch-Beam-Search-Decoding [(https://github.com/budzianowski/PyTorch-Beam-Search-Decoding)](https://github.com/budzianowski/PyTorch-Beam-Search-Decoding)
 
 ### Audio Alignment
 - kaldi-long-audio-alignment [(https://github.com/srinivr/kaldi-long-audio-alignment)](https://github.com/srinivr/kaldi-long-audio-alignment)
+- gentle-aligner [(https://github.com/lowerquality/gentle)](https://github.com/lowerquality/gentle)
 - speech-aligner [(https://github.com/open-speech/speech-aligner)](https://github.com/open-speech/speech-aligner)
 - sail_align [(https://github.com/nassosoassos/sail_align)](https://github.com/nassosoassos/sail_align)
 - forced-alignment-tools [(https://github.com/pettarin/forced-alignment-tools)](https://github.com/pettarin/forced-alignment-tools)
@@ -125,6 +160,7 @@
 - jamendolyrics [(https://github.com/f90/jamendolyrics)](https://github.com/f90/jamendolyrics)
 - Lyrics-to-Audio-Alignment [(https://github.com/ronggong/MIREX-2018-Automatic-Lyrics-to-Audio-Alignment)](https://github.com/ronggong/MIREX-2018-Automatic-Lyrics-to-Audio-Alignment)
 - Lyrics-to-Audio-Alignment [(https://github.com/rupakvignesh/Lyrics-to-Audio-Alignment)](https://github.com/rupakvignesh/Lyrics-to-Audio-Alignment)
+- Prosodylab-Aligner [(https://github.com/prosodylab/Prosodylab-Aligner)](https://github.com/prosodylab/Prosodylab-Aligner)
 
 ### GOP(Goodness of Pronunciation)
 - kaldi-dnn-ali-gop [(https://github.com/tbright17/kaldi-dnn-ali-gop)](https://github.com/tbright17/kaldi-dnn-ali-gop)
@@ -136,6 +172,7 @@
 - tacotron [(https://github.com/begeekmyfriend/tacotron)](https://github.com/begeekmyfriend/tacotron)
 - tacotron2 [(https://github.com/NVIDIA/tacotron2)](https://github.com/NVIDIA/tacotron2)
 - Tacotron-2 [(https://github.com/Rayhane-mamah/Tacotron-2)](https://github.com/Rayhane-mamah/Tacotron-2)
+- multi-speaker-tacotron [(https://github.com/nii-yamagishilab/multi-speaker-tacotron)](https://github.com/nii-yamagishilab/multi-speaker-tacotron)
 - Tacotron-2-Chinese [(https://github.com/JasonWei512/Tacotron-2-Chinese)](https://github.com/JasonWei512/Tacotron-2-Chinese)
 - WaveRNN [(https://github.com/fatchord/WaveRNN)](https://github.com/fatchord/WaveRNN)
 - merlin [(https://github.com/CSTR-Edinburgh/merlin)](https://github.com/CSTR-Edinburgh/merlin)
@@ -151,8 +188,17 @@
 - Transformer-TTS [(https://github.com/soobinseo/Transformer-TTS)](https://github.com/soobinseo/Transformer-TTS)
 - LPCNet [(https://github.com/mozilla/LPCNet)](https://github.com/mozilla/LPCNet)
 - Voice Cloning [(https://github.com/CorentinJ/Real-Time-Voice-Cloning)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- Glow-TTS [(https://github.com/jaywalnut310/glow-tts)](https://github.com/jaywalnut310/glow-tts)
+- Flowtron [(https://github.com/NVIDIA/flowtron)](https://github.com/NVIDIA/flowtron)
+- OpenSTT [(https://github.com/snakers4/open_stt)](https://github.com/snakers4/open_stt)
+- TensorflowTTS [(https://github.com/dathudeptrai/TensorflowTTS)](https://github.com/dathudeptrai/TensorflowTTS)
+- TransformerTTS [(https://github.com/as-ideas/TransformerTTS)](https://github.com/as-ideas/TransformerTTS)
+- AlignTTS [(https://github.com/Deepest-Project/AlignTTS)](https://github.com/Deepest-Project/AlignTTS)
+- Lip2Wav [(https://github.com/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
+- Self-Supervised-Speech-Pretraining [(https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning)](https://github.com/andi611/Self-Supervised-Speech-Pretraining-and-Representation-Learning)
+- pytorch-wavenet [(https://github.com/vincentherrmann/pytorch-wavenet)](https://github.com/vincentherrmann/pytorch-wavenet)
 
-### Audio Dataset
+## Audio Dataset
 - datasets-CMU_Wilderness [(https://github.com/festvox/datasets-CMU_Wilderness)](https://github.com/festvox/datasets-CMU_Wilderness)
 - soundnet [(https://github.com/cvondrick/soundnet)](https://github.com/cvondrick/soundnet)
 - voice_datasets [(https://github.com/jim-schwoebel/voice_datasets)](https://github.com/jim-schwoebel/voice_datasets)
@@ -166,8 +212,12 @@
 - RadioTalk [(https://github.com/social-machines/RadioTalk)](https://github.com/social-machines/RadioTalk)
 - ASR Audio data links [(https://github.com/robmsmt/ASR_Audio_Data_Links)](https://github.com/robmsmt/ASR_Audio_Data_Links)
 - Sound Anomaly Detection [(https://github.com/YumaKoizumi/ToyADMOS-dataset)](https://github.com/YumaKoizumi/ToyADMOS-dataset)
+- asr-noises [(https://github.com/snakers4/asr-noises)](https://github.com/snakers4/asr-noises)
+- libri-light [(https://github.com/facebookresearch/libri-light)](https://github.com/facebookresearch/libri-light)
+- covost [(https://github.com/facebookresearch/covost)](https://github.com/facebookresearch/covost)
+- pansori [(https://github.com/yc9701/pansori)](https://github.com/yc9701/pansori)
 
-### Speech Denoising/Enhancement
+## Speech Denoising/Enhancement/Separation/Diarization
 - speech-denoising-wavenet [(https://github.com/drethage/speech-denoising-wavenet)](https://github.com/drethage/speech-denoising-wavenet)
 - segan [(https://github.com/santi-pdp/segan)](https://github.com/santi-pdp/segan)
 - sednn [(https://github.com/yongxuUSTC/sednn)](https://github.com/yongxuUSTC/sednn)
@@ -178,23 +228,99 @@
 - single-channel-speech-enhancement [(https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)](https://github.com/zhr1201/CNN-for-single-channel-speech-enhancement)
 - onssen [(https://github.com/speechLabBcCuny/onssen)](https://github.com/speechLabBcCuny/onssen)
 - beamforming toolkit [(https://github.com/kkumatani/distant_speech_recognition)](https://github.com/kkumatani/distant_speech_recognition)
+- BeamformIt [(https://github.com/xanguera/BeamformIt)](https://github.com/xanguera/BeamformIt)
+- beamformers [(https://github.com/Enny1991/beamformers)](https://github.com/Enny1991/beamformers)
 - rnnoise [(https://github.com/xiph/rnnoise)](https://github.com/xiph/rnnoise)
 - TensorFlow-speech-enhancement-Chinese [(https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)](https://github.com/linan2/TensorFlow-speech-enhancement-Chinese)
+- Libri-CSS [(https://github.com/chenzhuo1011/libri_css)](https://github.com/chenzhuo1011/libri_css)
+- LibriMix [(https://github.com/JorisCos/LibriMix)](https://github.com/JorisCos/LibriMix)
+- EEND [(https://github.com/hitachi-speech/EEND)](https://github.com/hitachi-speech/EEND)
+- asteroid [(https://github.com/mpariente/asteroid)](https://github.com/mpariente/asteroid)
+- aukit [(https://github.com/KuangDD/aukit)](https://github.com/KuangDD/aukit)
+- awesome-speech-enhancement [(https://github.com/Wenzhe-Liu/awesome-speech-enhancement)](https://github.com/Wenzhe-Liu/awesome-speech-enhancement)
+- pseq [(https://github.com/vBaiCai/python-pesq)](https://github.com/vBaiCai/python-pesq)
+- TCN_SE [(https://github.com/ykoyama58/tcnse)](https://github.com/ykoyama58/tcnse)
+- Speech-Separation-Papers [(https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)](https://github.com/JusperLee/Speech-Separation-Paper-Tutorial)
+- DeepXi [(https://github.com/anicolson/DeepXi)](https://github.com/anicolson/DeepXi)
+- speechmetrics [(https://github.com/aliutkus/speechmetrics)](https://github.com/aliutkus/speechmetrics)
+- voicefilter [(https://github.com/mindslab-ai/voicefilter)](https://github.com/mindslab-ai/voicefilter)
+- source_separation [(https://github.com/AppleHolic/source_separation)](https://github.com/AppleHolic/source_separation)
+- Wave-U-Net [(https://github.com/craigmacartney/Wave-U-Net-For-Speech-Enhancement)](https://github.com/craigmacartney/Wave-U-Net-For-Speech-Enhancement)
+- PerceptualAudio [(https://github.com/pranaymanocha/PerceptualAudio)](https://github.com/pranaymanocha/PerceptualAudio)
+- awesome-diarization [(https://github.com/wq2012/awesome-diarization)](https://github.com/wq2012/awesome-diarization)
 
-### Speech Emotion Recognition
+## Speech Emotion Recognition
 - speech-emotion-recognition-exercise [(https://github.com/YJango/speech-emotion-recognition-exercise)](https://github.com/YJango/speech-emotion-recognition-exercise)
 - speech-emotion-recognition [(https://github.com/xuanjihe/speech-emotion-recognition)](https://github.com/xuanjihe/speech-emotion-recognition)
 - multimodal-speech-emotion [(https://github.com/david-yoon/multimodal-speech-emotion)](https://github.com/david-yoon/multimodal-speech-emotion)
 - multimodal-speech-emotion-recognition [(https://github.com/Demfier/multimodal-speech-emotion-recognition)](https://github.com/Demfier/multimodal-speech-emotion-recognition)
 
-### Speaker Recognition
+## Speaker Recognition
 - speaker-recognition-papers [(https://github.com/bjfu-ai-institute/speaker-recognition-papers)](https://github.com/bjfu-ai-institute/speaker-recognition-papers)
 - DeepSpeaker-pytorch [(https://github.com/qqueing/DeepSpeaker-pytorch)](https://github.com/qqueing/DeepSpeaker-pytorch)
 - 3D-convolutional-speaker-recognition [(https://github.com/astorfi/3D-convolutional-speaker-recognition)](https://github.com/astorfi/3D-convolutional-speaker-recognition)
 - x-vector-kaldi-tf [(https://github.com/hsn-zeinali/x-vector-kaldi-tf)](https://github.com/hsn-zeinali/x-vector-kaldi-tf)
 - ivector-xvector [(https://github.com/zeroQiaoba/ivector-xvector)](https://github.com/zeroQiaoba/ivector-xvector)
 
+## chatbot
+- MultiLingualBot [(https://github.com/nmstoker/MultiLingualBot)](https://github.com/nmstoker/MultiLingualBot)
+- NeMo [(https://github.com/NVIDIA/NeMo)](https://github.com/NVIDIA/NeMo)
+- chatbot [(https://github.com/codemayq/chinese_chatbot_corpus)](https://github.com/codemayq/chinese_chatbot_corpus)
+- Dialogue [(https://github.com/baidu/Dialogue)](https://github.com/baidu/Dialoguess)
+- Dialog_Corpus [(https://github.com/candlewill/Dialog_Corpus)](https://github.com/candlewill/Dialog_Corpus)
+- wukong-robot [(https://github.com/wzpan/wukong-robot)](https://github.com/wzpan/wukong-robot)
+- CrossWOZ [(https://github.com/thu-coai/CrossWOZ)](https://github.com/thu-coai/CrossWOZ)
+- conversational-datasets [(https://github.com/PolyAI-LDN/conversational-datasets)](https://github.com/PolyAI-LDN/conversational-datasets)
+- Chatbot_CN [(https://github.com/charlesXu86/Chatbot_CN)](https://github.com/charlesXu86/Chatbot_CN)
+- homo [(https://github.com/countstarlight/homo)](https://github.com/countstarlight/homo)
+- ChatterBot [(https://github.com/gunthercox/ChatterBot)](https://github.com/gunthercox/ChatterBot)
 
-### Audio Fingerprinting
+## Misc Topics
 
+### speech animation
+- speech-driven-animation [(https://github.com/DinoMan/speech-driven-animation)](https://github.com/DinoMan/speech-driven-animation)
+
+### Music/Audio
+- sms-tools [(https://github.com/MTG/sms-tools)](https://github.com/MTG/sms-tools)
+- MelodyExtraction [(https://github.com/helenacuesta/MelodyExtraction)](https://github.com/helenacuesta/MelodyExtraction)
+- FMA [(https://github.com/mdeff/fma)](https://github.com/mdeff/fma)
 - dejavu [(https://github.com/worldveil/dejavu)](https://github.com/worldveil/dejavu)
+- MusicTransformer-pytorch [(https://github.com/jason9693/MusicTransformer-pytorch)](https://github.com/jason9693/MusicTransformer-pytorch)
+- acoustic word embedding [(https://github.com/kamperh/recipe_swbd_wordembeds)](https://github.com/kamperh/recipe_swbd_wordembeds)
+- neural-acoustic-word-embeddings [(https://github.com/shane-settle/neural-acoustic-word-embeddings)](https://github.com/shane-settle/neural-acoustic-word-embeddings)
+- ESC-50 [(https://github.com/karolpiczak/ESC-50)](https://github.com/karolpiczak/ESC-50)
+- DeMucs[(https://github.com/facebookresearch/demucs)](https://github.com/facebookresearch/demucs)
+- Music-Transcription [(https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation)](https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation)
+- audino [(https://github.com/midas-research/audino)](https://github.com/midas-research/audino)
+- sp2si-code [(https://github.com/jayneelparekh/sp2si-code)](https://github.com/jayneelparekh/sp2si-code)
+- magenta [(https://github.com/magenta/magenta)](https://github.com/magenta/magenta)
+- msaf [(https://github.com/urinieto/msaf)](https://github.com/urinieto/msaf)
+
+### Lattice as Inputs
+- lattice_rnn [(https://github.com/qiujiali/lattice_rnn)](https://github.com/qiujiali/lattice_rnn)
+- BiLatticeRNN-Confidence [(https://github.com/alecokas/BiLatticeRNN-Confidence)](https://github.com/alecokas/BiLatticeRNN-Confidence)
+- BiLatticeRNN-data-processing [(https://github.com/alecokas/BiLatticeRNN-data-processing)](https://github.com/alecokas/BiLatticeRNN-data-processing)
+- Lattice Recurrent Unit [(https://github.com/chahuja/lru)](https://github.com/chahuja/lru)
+- Lattice CNN [(https://github.com/Erutan-pku/LCN-for-Chinese-QA)](https://github.com/Erutan-pku/LCN-for-Chinese-QA)
+- Lattice-SLU [(https://github.com/MiuLab/Lattice-SLU)](https://github.com/MiuLab/Lattice-SLU)
+- LatticeLSTM [(https://github.com/jiesutd/LatticeLSTM)](https://github.com/jiesutd/LatticeLSTM)
+- Neural Lattice LM [(https://github.com/jbuckman/neural-lattice-language-models)](https://github.com/jbuckman/neural-lattice-language-models)
+
+### Keyword Spotting / Wake-up word 
+- Google keyword-spotter [(https://github.com/google-coral/project-keyword-spotter)](https://github.com/google-coral/project-keyword-spotter)
+- KeywordSpotting [(https://github.com/friday27/KeywordSpotting)](https://github.com/friday27/KeywordSpotting)
+- Trigger-Word-Detection [(https://github.com/rohit12sharma/Trigger-Word-Detection)](https://github.com/rohit12sharma/Trigger-Word-Detection)
+- kws [(https://github.com/mindorii/kws)](https://github.com/mindorii/kws)
+- wake-word-benchmark [(https://github.com/Picovoice/wake-word-benchmark)](https://github.com/Picovoice/wake-word-benchmark)
+- snowboy [(https://github.com/Kitt-AI/snowboy)](https://github.com/Kitt-AI/snowboy)
+- porcupine [(https://github.com/Picovoice/porcupine)](https://github.com/Picovoice/porcupine)
+
+### phoneme transcription
+- persephone [(https://github.com/persephone-tools/persephone)](https://github.com/persephone-tools/persephone)
+- PytorchSR [(https://github.com/AppleHolic/PytorchSR)](https://github.com/AppleHolic/PytorchSR)
+
+### Others
+- automated-multi-language-subtitling [(https://github.com/awslabs/live-streaming-with-automated-multi-language-subtitling)](https://github.com/awslabs/live-streaming-with-automated-multi-language-subtitling)
+- Webrtcvad [(https://github.com/wiseman/py-webrtcvad)](https://github.com/wiseman/py-webrtcvad)
+- vad net [(https://github.com/hcmlab/vadnet)](https://github.com/hcmlab/vadnet)
+- ffsubsync [(https://github.com/smacke/ffsubsync)](https://github.com/smacke/ffsubsync)
